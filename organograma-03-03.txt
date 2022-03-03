@@ -3,1323 +3,1442 @@
         margin-bottom: 0 !important;
     }
 </style>
-<div align="center">
-<img src="./Organograma — Tribunal Superior Eleitoral_files/organograma-tse-fev-22.png" usemap="#Map"><map id="Map" name="Map"><area shape="rect" coords="297,28,426,81" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#PRES">
-<area shape="rect" coords="53,75,171,117" href="http://www.tse.jus.br/o-tse/ministros/apresentacao">
-<area shape="rect" coords="53,139,170,178" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#GABMIN">
-<area shape="rect" coords="229,121,346,163" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#GABPRES">
-<area shape="rect" coords="373,119,493,172" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#EJE">
-<area shape="rect" coords="545,120,684,165" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#CGE">
-<area shape="rect" coords="544,179,689,229" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#ACTSE">
-<area shape="rect" coords="546,240,687,291" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#AECLP">
-<area shape="rect" coords="118,384,260,428" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#SPR">
-<area shape="rect" coords="461,386,597,422" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#SEC">
-<area shape="rect" coords="37,607,171,656" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#ASPAR">
-<area shape="rect" coords="38,454,172,501" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#NDI">
-<area shape="rect" coords="202,745,343,795" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#ASCOM">
-<area shape="rect" coords="374,451,517,502" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#GDG">
-<area shape="rect" coords="376,511,522,556" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#AGEL">
-<area shape="rect" coords="37,676,173,727" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#AIC">
-<area shape="rect" coords="201,554,338,598" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#ASPLEN">
-<area shape="rect" coords="205,614,338,668" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#ASESP">
-<area shape="rect" coords="40,751,174,804" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#ASCP">
-<area shape="rect" coords="202,687,340,729" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#OUV">
-<area shape="rect" coords="35,829,170,883" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#AGI">
-<area shape="rect" coords="37,899,170,956" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#ASPJE">
-<area shape="rect" coords="542,505,683,563" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#AESI">
-<area shape="rect" coords="540,448,687,499" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#ASJUR">
-<area shape="rect" coords="125,1120,232,1225" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#SCI">
-<area shape="rect" coords="36,524,174,584" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#AAMS">
-<area shape="rect" coords="201,810,338,853" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#SJD">
-<area shape="rect" coords="578,992,688,1061" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#STI">
-<area shape="rect" coords="471,991,565,1074" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#SPOFC">
-<area shape="rect" coords="358,992,458,1074" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#SPSMG">
-<area shape="rect" coords="249,992,354,1057" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#SGP">
-<area shape="rect" coords="145,991,244,1060" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#SGI">
-<area shape="rect" coords="545,302,685,349" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#SDAU">
-<area shape="rect" coords="27,991,138,1049" href="https://www.tse.jus.br/o-tse/sobre-o-tse/contatos-organograma#SAD"></map>
+<div align="center"> <img src="https://www.tse.jus.br/internet/imagens/organograma-tse-fev-22.png" usemap="#Map" />
+    <map id="Map" name="Map">
+    <area shape="rect" coords="299,48,428,101" href="#PRES" />
+    <area shape="rect" coords="57,89,175,131" href="http://www.tse.jus.br/o-tse/ministros/apresentacao" />
+    <area shape="rect" coords="57,153,174,192" href="#GABMIN" />
+    <area shape="rect" coords="232,132,349,174" href="#GABPRES" />
+    <area shape="rect" coords="377,132,497,185" href="#EJE" />
+    <area shape="rect" coords="548,131,687,176" href="#CGE" />
+    <area shape="rect" coords="551,193,696,243" href="#ACTSE" />
+    <area shape="rect" coords="548,254,689,305" href="#AECLP" />
+    <area shape="rect" coords="122,414,264,458" href="#SPR" />
+    <area shape="rect" coords="463,415,599,451" href="#SEC" />
+    <area shape="rect" coords="40,484,179,536" href="#ASPAR" />
+    <area shape="rect" coords="206,488,347,538" href="#ASCOM" />
+    <area shape="rect" coords="379,481,522,532" href="#GDG" />
+    <area shape="rect" coords="374,550,520,595" href="#AGEL" />
+    <area shape="rect" coords="42,556,178,622" href="#AIC" />
+    <area shape="rect" coords="205,564,351,617" href="#ASESP" />
+    <area shape="rect" coords="44,640,181,691" href="#ASCOM" />
+    <area shape="rect" coords="205,643,350,697" href="#OUV" />
+    <area shape="rect" coords="40,710,185,764" href="#AGI" />
+    <area shape="rect" coords="202,706,349,764" href="#ASPJE" />
+    <area shape="rect" coords="543,543,684,601" href="#AESI" />
+    <area shape="rect" coords="540,480,687,531" href="#ASJUR" />
+    <area shape="rect" coords="125,1120,232,1225" href="#SCI" />
+    <area shape="rect" coords="30,778,179,834" href="#AAMS" />
+    <area shape="rect" coords="204,785,354,832" href="#SJD" />
+    <area shape="rect" coords="583,877,693,946" href="#STI" />
+    <area shape="rect" coords="470,877,579,964" href="#SPOFC" />
+    <area shape="rect" coords="356,874,466,959" href="#SPSMG" />
+    <area shape="rect" coords="246,877,351,942" href="#SGP" />
+    <area shape="rect" coords="145,877,244,946" href="#SGI" />
+    <area shape="rect" coords="548,322,688,369" href="#SDAU" />
+    <area shape="rect" coords="28,879,139,937" href="#SAD" />
+  </map>
 </div>
 <div class="todasUnidades">
-<div class="unidadePresidencia">
-<div>&nbsp;</div>
-<h2>
-<a id="PRES"></a>Presidência</h2>
-<div id="estrutura_simples_presidencia">
-<h4 class="topico">Presidente: Ministro Luiz Edson Fachin </h4>
-<h4 class="topico">Vice-Presidente: Ministro Alexandre de Moraes</h4>
-</div>
-<div class="estrutura_spr">
-<a id="SPR" tabindex="-1"></a><h4 class="topico">Gabinete da Presidência</h4>
-<p class="marcador">Assessor-Chefe: -</p>
-<p class="marcador">Telefone: (61) 3030-7155/7156</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:audienciamlrb@tse.jus.br">audienciamlrb@tse.jus.br </a>(pedidos de audiência relativos a processos judiciais e assuntos processuais judiciais)</p>
-</div>
-<div class="estrutura_spr">
-<a id="SPR"></a><h4 class="topico">Secretaria-Geral da Presidência (GAB-SPR)</h4>
-<p class="marcador">Secretária-Geral da Presidência: Aline Rezende Peres Osorio</p>
-<p class="marcador">Secretário-Geral da Presidência (em exercício): Sandro Nunes Vieira</p>
-<p class="marcador">Telefone: (61) 3030-7156/7155/7050</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:presidencia@tse.jus.br">presidencia@tse.jus.br </a>(para envio de convites, ofícios e assuntos administrativos)</p>
-</div>
-<a id="GABPRES"></a><div id="estrutura_gabpres">
-<h4 class="topico">Gabinete da Secretaria-Geral da Presidência (GAB-SPR)</h4>
-<p class="marcador">Assessora-chefe: Andreza Maris G. S. Santos</p>
-<p class="marcador">Telefone: (61) 3030-7241/7050</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:presidencia@tse.jus.br">presidencia@tse.jus.br</a></p>
-</div>
-</div>
-<div class="unidadeMinistros">
-<h2>
-<a id="GABMIN"></a> Gabinetes de Ministros </h2>
-<div id="estrutura_gab_stf_3">
-<h4 class="topico">Gabinete do Ministro Edson Fachin (Presidente)</h4>
-<p class="marcador">Assessora-Chefe: -</p>
-<p class="marcador">Telefone: 3030-7419/7195</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:gab.edsonfachin@tse.jus.br">gab.edsonfachin@tse.jus.br</a></p>
-</div>
-<div id="estrutura_gab_stf_2">
-<h4 class="topico">Gabinete do Ministro Alexandre de Moraes (Vice-Presidente)</h4>
-<p class="marcador">Assessor-Chefe: -</p>
-<p class="marcador">Telefone: (61) 3030-7037/7079/7723</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:gab.alexandremoraes@tse.jus.br">gab.alexandremoraes@tse.jus.br</a></p>
-</div>
-<div id="estrutura_gab_stj_1">
-<h4 class="topico">Gabinete do Ministro Mauro Campbell Marques (Corregedor)</h4>
-<p class="marcador">Assessora-Chefe: Liana Pedroso Dias Dourado de Carvalho</p>
-<p class="marcador">Telefone: (61) 3030-7502/7482</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:gab.min.campbellmarques@tse.jus.br">gab.min.campbellmarques@tse.jus.br</a></p>
-</div>
-<div id="estrutura_gab_stj_1">
-<h4 class="topico">Gabinete do Ministro Benedito Gonçalves</h4>
-<p class="marcador">Assessor-Chefe: Manoel José Nunes Filho</p>
-<p class="marcador">Telefone: (61) 3030-7403/7404/8020/7394</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:gmbg@tse.jus.br">gmbg@tse.jus.br</a></p>
-</div>
-<div id="estrutura_gab_jur_2">
-<h4 class="topico">Gabinete do Ministro Carlos Bastide Horbach</h4>
-<p class="marcador">Assessor-Chefe: Kleber Lacerda Filgueiras Tavares</p>
-<p class="marcador">Telefone: (61) 3030-7606/7607/7597</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:gab.ch@tse.jus.br">gab.ch@tse.jus.br</a></p>
-</div>
-<div id="estrutura_gab_jur_1">
-<h4 class="topico">Gabinete do Ministro Sérgio Silveira Banhos</h4>
-<p class="marcador">Assessor-Chefe: Eilzon Teotônio Almeida</p>
-<p class="marcador">Telefone: (61) 3030-7777</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:gab.sb@tse.jus.br">gab.sb@tse.jus.br</a></p>
-</div>
-</div>
-<div class="unidadeEJE">
-<a name="EJE" id="EJE"></a><div id="estrutura_avulsa_eje">
-<h4 class="topico">Escola Judiciária Eleitoral (EJE)</h4>
-<p class="marcador">Diretor: Ministro Carlos Bastide Horbach</p>
-<p class="marcador">Vice-diretor: -
-                </p>
-<p></p>
-<p class="marcador">Assessora-Chefe: Polianna Pereira dos Santos </p>
-<p class="marcador">Telefone: (61) 3030-7474</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:eje.tse@tse.jus.br">eje.tse@tse.jus.br</a></p>
-</div>
-</div>
-<div class="unidadeCGE">
-<a id="CGE"></a><div id="estrutura_cge">
-<h4 class="topico">Corregedoria-Geral da Justiça Eleitoral (CGE)</h4>
-<p class="marcador">Corregedor-Geral da Justiça Eleitoral: Ministro Mauro Campbell Marques</p>
-<p class="marcador">Telefone: (61) 3030-7502/7482</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:gab.min.campbellmarques@tse.jus.br">gab.min.campbellmarques@tse.jus.br</a></p>
-<br><p class="marcador">Juiz Auxiliar da CGE: Dr. Richard Pae Kim</p>
-<p class="marcador">Telefone: (61) 3030-7430/7431</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
-<br><!-- <p class="marcador">Juiz Auxiliar: Dr. Rafael Medeiros Antunes Ferreira</p>
+    <div class="unidadePresidencia">
+        <div>&nbsp;</div>
+        <h2>
+            <a id="PRES"></a>Presidência</h2>
+        <div id="estrutura_simples_presidencia">
+            <h4 class="topico">Presidente: Ministro Luiz Edson Fachin </h4>
+            <h4 class="topico">Vice-Presidente: Ministro Alexandre de Moraes</h4>
+        </div>
+        <div class="estrutura_spr">
+            <a id="SPR"></a>
+            <h4 class="topico">Gabinete da Presidência</h4>
+            <p class="marcador">Assessor-Chefe: -</p>
+            <p class="marcador">Telefone: (61) 3030-7155/7156</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:audienciamlrb@tse.jus.br">audienciamlrb@tse.jus.br </a>(pedidos de audiência relativos a processos judiciais e assuntos processuais judiciais)</p>
+        </div>
+        <div class="estrutura_spr">
+            <a id="SPR"></a>
+            <h4 class="topico">Secretaria-Geral da Presidência (GAB-SPR)</h4>
+            <p class="marcador">Secretária-Geral da Presidência: Aline Rezende Peres Osorio</p>
+            <p class="marcador">Secretário-Geral da Presidência (em exercício): Sandro Nunes Vieira</p>
+            <p class="marcador">Telefone: (61) 3030-7156/7155/7050</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:presidencia@tse.jus.br">presidencia@tse.jus.br </a>(para envio de convites, ofícios e assuntos administrativos)</p>
+        </div>
+        <a id="GABPRES"></a>
+        <div id="estrutura_gabpres">
+            <h4 class="topico">Gabinete da Secretaria-Geral da Presidência (GAB-SPR)</h4>
+            <p class="marcador">Assessora-chefe: Andreza Maris G. S. Santos</p>
+            <p class="marcador">Telefone: (61) 3030-7241/7050</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:presidencia@tse.jus.br">presidencia@tse.jus.br</a></p>
+        </div>
+    </div>
+    <div class="unidadeMinistros">
+        <h2>
+            <a id="GABMIN"></a> Gabinetes de Ministros </h2>
+        
+
+
+        <div id="estrutura_gab_stf_3">
+            <h4 class="topico">Gabinete do Ministro Edson Fachin (Presidente)</h4>
+            <p class="marcador">Assessora-Chefe: -</p>
+            <p class="marcador">Telefone: 3030-7419/7195</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:gab.edsonfachin@tse.jus.br">gab.edsonfachin@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_gab_stf_2">
+            <h4 class="topico">Gabinete do Ministro Alexandre de Moraes (Vice-Presidente)</h4>
+            <p class="marcador">Assessor-Chefe: -</p>
+            <p class="marcador">Telefone: (61) 3030-7037/7079/7723</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:gab.alexandremoraes@tse.jus.br">gab.alexandremoraes@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_gab_stj_1">
+            <h4 class="topico">Gabinete do Ministro Mauro Campbell Marques (Corregedor)</h4>
+            <p class="marcador">Assessora-Chefe: Liana Pedroso Dias Dourado de Carvalho</p>
+            <p class="marcador">Telefone: (61) 3030-7502/7482</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:gab.min.campbellmarques@tse.jus.br">gab.min.campbellmarques@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_gab_stj_1">
+            <h4 class="topico">Gabinete do Ministro Benedito Gonçalves</h4>
+            <p class="marcador">Assessor-Chefe: Manoel José Nunes Filho</p>
+            <p class="marcador">Telefone: (61) 3030-7403/7404/8020/7394</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:gmbg@tse.jus.br">gmbg@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_gab_jur_2">
+            <h4 class="topico">Gabinete do Ministro Carlos Bastide Horbach</h4>
+            <p class="marcador">Assessor-Chefe: Kleber Lacerda Filgueiras Tavares</p>
+            <p class="marcador">Telefone: (61) 3030-7606/7607/7597</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:gab.ch@tse.jus.br">gab.ch@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_gab_jur_1">
+            <h4 class="topico">Gabinete do Ministro Sérgio Silveira Banhos</h4>
+            <p class="marcador">Assessor-Chefe: Eilzon Teotônio Almeida</p>
+            <p class="marcador">Telefone: (61) 3030-7777</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:gab.sb@tse.jus.br">gab.sb@tse.jus.br</a></p>
+        </div>
+
+    </div>
+    <div class="unidadeEJE">
+        <a id="EJE"></a>
+        <div id="estrutura_avulsa_eje">
+            <h4 class="topico">Escola Judiciária Eleitoral (EJE)</h4>
+            <p class="marcador">Diretor: Ministro Carlos Bastide Horbach</p>
+            <p class="marcador">Vice-diretor: -
+                <p>
+                    <p class="marcador">Assessora-Chefe: Polianna Pereira dos Santos </p>
+                    <p class="marcador">Telefone: (61) 3030-7474</p>
+                    <p class="marcador"><em>E-mail</em>: <a href="mailto:eje.tse@tse.jus.br">eje.tse@tse.jus.br</a></p>
+        </div>
+    </div>
+    <div class="unidadeCGE">
+        <a id="CGE"></a>
+        <div id="estrutura_cge">
+            <h4 class="topico">Corregedoria-Geral da Justiça Eleitoral (CGE)</h4>
+            <p class="marcador">Corregedor-Geral da Justiça Eleitoral: Ministro Mauro Campbell Marques</p>
+            <p class="marcador">Telefone: (61) 3030-7502/7482</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:gab.min.campbellmarques@tse.jus.br">gab.min.campbellmarques@tse.jus.br</a></p>
+            <br>
+            <p class="marcador">Juiz Auxiliar da CGE: Dr. Richard Pae Kim</p>
+            <p class="marcador">Telefone: (61) 3030-7430/7431</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
+            <br>
+            <!-- <p class="marcador">Juiz Auxiliar: Dr. Rafael Medeiros Antunes Ferreira</p>
             <p class="marcador">Telefone: (61) 3030-7431</p>
             <p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p> -->
-</div>
-<div id="estrutura_scg">
-<h4 class="topico">Secretaria da Corregedoria-Geral da Justiça Eleitoral (SCG)</h4>
-<p class="marcador">Secretária: Simone Holanda Batalha</p>
-<p class="marcador">Telefone: (61) 3030-7427</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
-</div>
-<div id="estrutura_gabcge">
-<h4 class="topico">Gabinete (GAB-CGE)</h4>
-<p class="marcador">Assistente: Sonja Maiara Martins de Oliveira</p>
-<p class="marcador">Telefone: (61) 3030-7431</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
-</div>
-<div id="estrutura_ascge">
-<h4 class="topico">Assessoria da Corregedoria-Geral (ASCGE)</h4>
-<p class="marcador">Assessora: Adriana Maria Leal Meneses</p>
-<p class="marcador">Telefone: (61) 3030-7444</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
-</div>
-<div id="estrutura_coaju">
-<h4 class="topico">Coordenadoria de Assuntos Judiciários (COAJU)</h4>
-<p class="marcador">Coordenador: Márcia Magliano Pontes</p>
-<p class="marcador">Telefone: (61) 3030-7446</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sepc">
-<h4 class="topico">Seção de Procedimentos Cartorários (SEPC)</h4>
-<p class="marcador">Titular: André Ferreira Laterza</p>
-<p class="marcador">Telefone: (61) 3030-7442</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sepc@tse.jus.br">sepc@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seaa">
-<h4 class="topico">Seção de Análise e Acompanhamento (SEAA)</h4>
-<p class="marcador">Titular: Valério de Carvalho dos Anjos</p>
-<p class="marcador">Telefone: (61) 3030-7436</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:coaju@tse.jus.br">coaju@tse.jus.br</a></p>
-</div>
-<div id="estrutura_cfcad">
-<h4 class="topico">Coordenadoria de Fiscalização de Cadastro (CFCAD)</h4>
-<p class="marcador">Coordenadora: Camila da Silva Barreiro</p>
-<p class="marcador">Telefone: (61) 3030-7433</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sedp">
-<h4 class="topico">Seção de Direitos Políticos (SEDP)</h4>
-<p class="marcador">Titular: Giselle Pereira Sales</p>
-<p class="marcador">Telefone: (61) 3030-7459</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sers">
-<h4 class="topico">Seção de Regularização de Situação Eleitoral (SERS)</h4>
-<p class="marcador">Titular: Fabrício José de Souza</p>
-<p class="marcador">Telefone: (61) 3030-7463</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
-</div>
-<div id="estrutura_csori">
-<h4 class="topico">Coordenadoria de Supervisão e Orientação (CSORI)</h4>
-<p class="marcador">Coordenador: Carlos Leonardo S. Santos</p>
-<p class="marcador">Telefone: (61) 3030-7426</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:csori@tse.jus.br">csori@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seic">
-<h4 class="topico">Seção de Inspeções e Correições (SEIC)</h4>
-<p class="marcador">Titular: Apollws Beckman Mendes Almeida Guimarães</p>
-<p class="marcador">Telefone: (61) 3030-7452</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:csori@tse.jus.br">csori@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seot">
-<h4 class="topico">Seção de Orientação e Treinamento (SEOT)</h4>
-<p class="marcador">Titular: Maria Eugenia da Silva L. Filha</p>
-<p class="marcador">Telefone: (61) 3030-7457</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seot@tse.jus.br">seot@tse.jus.br</a></p>
-</div>
-</div>
-<div class="unidadeASSEC">
-<a id="ACTSE"></a><div id="estrutura_assec">
-<h4 class="topico">Assessoria Consultiva (ASSEC)</h4>
-<p class="marcador">Assessora-Chefe: -</p>
-<p class="marcador">Telefone: (61) 3030-7122</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:assec@tse.jus.br">assec@tse.jus.br</a></p>
-</div>
-</div>
-<div class="unidadeAECLP">
-<a id="AECLP"></a><div id="estrutura_asepa">
-<h4 class="topico">Assessoria de Exame de Contas Eleitorais e Partidárias (ASEPA)</h4>
-<p class="marcador">Assessor-Chefe: Eron Júnior Vieira Pessoa</p>
-<p class="marcador">Telefone: (61) 3030-7329</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:asepa@tse.jus.br">asepa@tse.jus.br</a></p>
-</div>
-</div>
-<div class="unidadeSPR">
-<h4 class="topico">Secretaria-Geral da Presidência (SPR)</h4>
-<a id="NDI"></a><div id="estrutura_aspar">
-<h4 class="topico">Núcleo de Diversidade e Inclusão</h4>
-<p class="marcador">Titular: -</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
+        </div>
+        <div id="estrutura_scg">
+            <h4 class="topico">Secretaria da Corregedoria-Geral da Justiça Eleitoral (SCG)</h4>
+            <p class="marcador">Secretária: Simone Holanda Batalha</p>
+            <p class="marcador">Telefone: (61) 3030-7427</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_gabcge">
+            <h4 class="topico">Gabinete (GAB-CGE)</h4>
+            <p class="marcador">Assistente: Sonja Maiara Martins de Oliveira</p>
+            <p class="marcador">Telefone: (61) 3030-7431</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_ascge">
+            <h4 class="topico">Assessoria da Corregedoria-Geral (ASCGE)</h4>
+            <p class="marcador">Assessora: Adriana Maria Leal Meneses</p>
+            <p class="marcador">Telefone: (61) 3030-7444</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_coaju">
+            <h4 class="topico">Coordenadoria de Assuntos Judiciários (COAJU)</h4>
+            <p class="marcador">Coordenador: Márcia Magliano Pontes</p>
+            <p class="marcador">Telefone: (61) 3030-7446</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sepc">
+            <h4 class="topico">Seção de Procedimentos Cartorários (SEPC)</h4>
+            <p class="marcador">Titular: André Ferreira Laterza</p>
+            <p class="marcador">Telefone: (61) 3030-7442</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:sepc@tse.jus.br">sepc@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_seaa">
+            <h4 class="topico">Seção de Análise e Acompanhamento (SEAA)</h4>
+            <p class="marcador">Titular: Valério de Carvalho dos Anjos</p>
+            <p class="marcador">Telefone: (61) 3030-7436</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:coaju@tse.jus.br">coaju@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_cfcad">
+            <h4 class="topico">Coordenadoria de Fiscalização de Cadastro (CFCAD)</h4>
+            <p class="marcador">Coordenadora: Camila da Silva Barreiro</p>
+            <p class="marcador">Telefone: (61) 3030-7433</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sedp">
+            <h4 class="topico">Seção de Direitos Políticos (SEDP)</h4>
+            <p class="marcador">Titular: Giselle Pereira Sales</p>
+            <p class="marcador">Telefone: (61) 3030-7459</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sers">
+            <h4 class="topico">Seção de Regularização de Situação Eleitoral (SERS)</h4>
+            <p class="marcador">Titular: Fabrício José de Souza</p>
+            <p class="marcador">Telefone: (61) 3030-7463</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:cge@tse.jus.br">cge@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_csori">
+            <h4 class="topico">Coordenadoria de Supervisão e Orientação (CSORI)</h4>
+            <p class="marcador">Coordenador: Carlos Leonardo S. Santos</p>
+            <p class="marcador">Telefone: (61) 3030-7426</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:csori@tse.jus.br">csori@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_seic">
+            <h4 class="topico">Seção de Inspeções e Correições (SEIC)</h4>
+            <p class="marcador">Titular: Apollws Beckman Mendes Almeida Guimarães</p>
+            <p class="marcador">Telefone: (61) 3030-7452</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:csori@tse.jus.br">csori@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_seot">
+            <h4 class="topico">Seção de Orientação e Treinamento (SEOT)</h4>
+            <p class="marcador">Titular: Maria Eugenia da Silva L. Filha</p>
+            <p class="marcador">Telefone: (61) 3030-7457</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:seot@tse.jus.br">seot@tse.jus.br</a></p>
+        </div>
+    </div>
+    <div class="unidadeASSEC">
+        <a id="ACTSE"></a>
+        <div id="estrutura_assec">
+            <h4 class="topico">Assessoria Consultiva (ASSEC)</h4>
+            <p class="marcador">Assessora-Chefe: -</p>
+            <p class="marcador">Telefone: (61) 3030-7122</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:assec@tse.jus.br">assec@tse.jus.br</a></p>
+        </div>
+    </div>
+    <div class="unidadeAECLP">
+        <a id="AECLP"></a>
+        <div id="estrutura_asepa">
+            <h4 class="topico">Assessoria de Exame de Contas Eleitorais e Partidárias (ASEPA)</h4>
+            <p class="marcador">Assessor-Chefe: Eron Júnior Vieira Pessoa</p>
+            <p class="marcador">Telefone: (61) 3030-7329</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:asepa@tse.jus.br">asepa@tse.jus.br</a></p>
+        </div>
+    </div>
+    <div class="unidadeSPR">
+        <h4 class="topico">Secretaria-Geral da Presidência (SPR)</h4>
+        <a id="ASPAR"></a>
 <div id="estrutura_aspar">
-<a id="ASPAR"></a><h4 class="topico">Assessoria de Articulação Parlamentar (ASPAR)</h4>
-<p class="marcador">Assessor-Chefe: Flávio Aurélio Nogueira Júnior</p>
-<p class="marcador">Telefone: (61) 3030-7135</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:aspar@tse.jus.br">aspar@tse.jus.br</a></p>
-</div>
-<a id="AIC"></a><div id="estrutura_ain">
-<h4 class="topico">Assessoria de Assuntos Internacionais </h4>
-<p class="marcador">Assessor-Chefe: José Gilberto Scandiucci Filho</p>
-<p class="marcador">Telefone: (61) 3030-7072/7076</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:ain@tse.jus.br">ain@tse.jus.br</a></p>
-</div>
-<a id="ASCP"></a><div id="estrutura_ain">
-<h4 class="topico">Assessoria de Cerimonial da Presidência</h4>
-<p class="marcador">Assessora-Chefe: Fernanda Silva P. M. Jannuzzi</p>
-<p class="marcador">Telefone: (61) 3030-7072/7076</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:ain@tse.jus.br">ain@tse.jus.br</a></p>
-</div>
-<a id="ASCOM"></a><div id="estrutura_ascom">
-<h4 class="topico">Secretaria de Comunicação e Multimídia (SECOM)</h4>
-<p class="marcador">Secretária: Giselly Siqueira</p>
-<p class="marcador">Telefone:(61) 3030-7058/7077/7078</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:imprensa@tse.jus.br">imprensa@tse.jus.br</a></p>
-</div>
-</div>
-<div id="estrutura_CA_">
-<h4 class="topico">Coordenadoria de Audiovisual (COAV)</h4>
-<p class="marcador">Coordenador: Tatiana Cochlar da Silva Araújo</p>
-<p class="marcador">Telefone: (61) 3030-7098</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:radiotv@tse.jus.br">radiotv@tse.jus.br</a></p>
-</div>
-<div id="estrutura_CA_SA">
-<h4 class="topico">Seção Administrativa (SEADMI)</h4>
-<p class="marcador">Titular: Francisca Uiara Alves Andrade</p>
-<p class="marcador">Telefone: (61) 3030-9050</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seadmi.secom@tse.jus.br">seadmi.secom@tse.jus.br</a></p>
-</div>
-<div id="estrutura_CI_">
-<h4 class="topico">Coordenadoria de Imprensa (CIMP)</h4>
-<p class="marcador">Coordenadora: Laura Gracindo </p>
-<p class="marcador">Telefone: (61) 3030-7541</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:imprensa@tse.jus.br">imprensa@tse.jus.br</a></p>
-</div>
-<div id="estrutura_SC_">
-<h4 class="topico">Seção de Comunicação Interna (SECOI)</h4>
-<p class="marcador">Titular: Gleice Andrade da Cruz</p>
-<p class="marcador">Telefone: 3030-7084</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:acontse@tse.jus.br">acontse@tse.jus.br</a></p>
-</div>
-<div id="estrutura_CMD_">
-<h4 class="topico">Coordenadoria de Mídias e Web (COWEB)</h4>
-<p class="marcador">Coordenadora: Fábia Galvão Costa Machado</p>
-<p class="marcador">Telefone: (61) 3030-7421</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:redes.sociais@tse.jus.br">redes.sociais@tse.jus.br</a></p>
-</div>
-<div id="estrutura_SCRS_">
-<h4 class="topico">Seção de Campanhas e Redes Sociais (SECRED)</h4>
-<p class="marcador">Titular: Rakell Dimanski Macêdo</p>
-<p class="marcador">Telefone: (61) 3030-7144</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:redes.sociais@tse.jus.br">redes.sociais@tse.jus.br</a></p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:campanhas@tse.jus.br">campanhas@tse.jus.br</a></p>
-</div>
-<div id="estrutura_SGCW_">
-<h4 class="topico">Seção de Gestão de Conteúdos Web (SGWEB)</h4>
-<p class="marcador">Titular: Flávia Parreira Carril Pinheiro</p>
-<p class="marcador">Telefone: (61) 3030-9325</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sgweb@tse.jus.br">sgweb@tse.jus.br</a></p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:suporteportal@tse.jus.br">suporteportal@tse.jus.br</a></p>
-</div>
-<a id="SUBSTITUTOS"></a><div id="AAMS">
-<h4 class="topico">Assessoria de Apoio aos Ministros Substitutos (AAMS)</h4>
-<p class="marcador">Assessor-Chefe: Sérgio Ricardo dos Santos</p>
-<p class="marcador">Telefone: (61) 3030-7232/7196/7550/7551</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:aams@tse.jus.br">aams@tse.jus.br</a></p>
-</div>
-<a id="AGI"></a><div id="estrutura_gestao_identificacao">
-<h4 class="topico">Assessoria de Gestão de Identificação (AGI)</h4>
-<p class="marcador">Assessor-Chefe: -</p>
-<p class="marcador">Telefone: (61) 3030-7238 / (61) 9.9864-9871</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:agi@tse.jus.br">agi@tse.jus.br</a></p>
-<a id="ASPLEN"></a><div id="estrutura_asplen">
-<h4 class="topico">Assessoria de Plenário (ASPLEN)</h4>
-<p class="marcador">Assessora-Chefe: Leila Correia Mascarenhas Barreto</p>
-<p class="marcador">Telefone: (61) 3030-7902/7616/9004</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:asplen@tse.jus.br">asplen@tse.jus.br</a></p>
-</div>
-<a id="ASESP"></a><div id="estrutura_asesp">
-<h4 class="topico">Assessoria Especial de Enfrentamento à Desinformação </h4>
-<p class="marcador">Assessor-Chefe: Frederico Franco Alvim</p>
-<p class="marcador">Telefone: (61) 3030-7156/7155/7050</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:asesp@tse.jus.br">asesp@tse.jus.br</a></p>
-<a href="mailto:-"></a>
-</div>
-<a id="OUV"></a><div id="estrutura_avulsa_ouv">
-<h4 class="topico">Ouvidoria (OUV)</h4>
-<p class="marcador">Ouvidora: Dra. Simone Trento</p>
-<p class="marcador">Assessora-Chefe: Eliane Bavaresco Volpato</p>
-<p class="marcador">Telefone: 3030-7358</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:ouv@tse.jus.br">ouv@tse.jus.br</a></p>
-</div>
-<a id="ASPJE"></a><div id="estrutura_aspje">
-<h4 class="topico">Assessoria do Processo Judicial Eletrônico (ASPJE)</h4>
-<p class="marcador">Assessor-Chefe: Bruney Guimarães Brum </p>
-<p class="marcador">Telefone: (61) 3030-9074</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:aspje@tse.jus.br">aspje@tse.jus.br</a></p>
-</div>
-<div class="unidadeSJD">
-<a id="SJD"></a><div id="estrutura_sjd">
-<h4 class="topico">Secretaria Judiciária (SJD)</h4>
-<p class="marcador">Secretário: Fernando Maciel de Alencastro</p>
-<p class="marcador">Telefone: (61) 3030-7925</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sjd@tse.jus.br">sjd@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sjd">
-<h4 class="topico">Núcleo de Inteligência Artificial e Dados Judiciários</h4>
-<p class="marcador">Titular: Alexandre Gomes Machado</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: 
+            <h4 class="topico">Núcleo de Diversidade e Inclusão</h4>
+            <p class="marcador">Titular: -</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+        <div id="estrutura_aspar">
+            <h4 class="topico">Assessoria de Articulação Parlamentar (ASPAR)</h4>
+            <p class="marcador">Assessor-Chefe: Flávio Aurélio Nogueira Júnior</p>
+            <p class="marcador">Telefone: (61) 3030-7135</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:aspar@tse.jus.br">aspar@tse.jus.br</a></p>
+        </div>
+        <a id="AIC"></a>
+        <div id="estrutura_ain">
+            <h4 class="topico">Assessoria de Assuntos Internacionais </h4>
+            <p class="marcador">Assessor-Chefe: José Gilberto Scandiucci Filho</p>
+            <p class="marcador">Telefone: (61) 3030-7072/7076</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:ain@tse.jus.br">ain@tse.jus.br</a></p>
+        </div>
+<div id="estrutura_ain">
+            <h4 class="topico">Assessoria de Cerimonial da Presidência</h4>
+            <p class="marcador">Assessora-Chefe: Fernanda Silva P. M. Jannuzzi</p>
+            <p class="marcador">Telefone: (61) 3030-7072/7076</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:ain@tse.jus.br">ain@tse.jus.br</a></p>
+        </div>
+
+        <a id="ASCOM"></a>
+        <div id="estrutura_ascom">
+            <h4 class="topico">Secretaria de Comunicação e Multimídia (SECOM)</h4>
+            <p class="marcador">Secretária: Giselly Siqueira</p>
+            <p class="marcador">Telefone:(61) 3030-7058/7077/7078</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:imprensa@tse.jus.br">imprensa@tse.jus.br</a></p>
+        </div>
+
+    </div>
+    <div id="estrutura_CA_">
+        <h4 class="topico">Coordenadoria de Audiovisual (COAV)</h4>
+        <p class="marcador">Coordenador: Tatiana Cochlar da Silva Araújo</p>
+        <p class="marcador">Telefone: (61) 3030-7098</p>
+        <p class="marcador"><em>E-mail</em>: <a href="mailto:radiotv@tse.jus.br">radiotv@tse.jus.br</a></p>
+    </div>
+    <div id="estrutura_CA_SA">
+        <h4 class="topico">Seção Administrativa (SEADMI)</h4>
+        <p class="marcador">Titular: Francisca Uiara Alves Andrade</p>
+        <p class="marcador">Telefone: (61) 3030-9050</p>
+        <p class="marcador"><em>E-mail</em>: <a href="mailto:seadmi.secom@tse.jus.br">seadmi.secom@tse.jus.br</a></p>
+    </div>
+    <div id="estrutura_CI_">
+        <h4 class="topico">Coordenadoria de Imprensa (CIMP)</h4>
+        <p class="marcador">Coordenadora: Laura Gracindo </p>
+        <p class="marcador">Telefone: (61) 3030-7541</p>
+        <p class="marcador"><em>E-mail</em>: <a href="mailto:imprensa@tse.jus.br">imprensa@tse.jus.br</a></p>
+    </div>
+    <div id="estrutura_SC_">
+        <h4 class="topico">Seção de Comunicação Interna (SECOI)</h4>
+        <p class="marcador">Titular: Gleice Andrade da Cruz</p>
+        <p class="marcador">Telefone: 3030-7084</p>
+        <p class="marcador"><em>E-mail</em>: <a href="mailto:acontse@tse.jus.br">acontse@tse.jus.br</a></p>
+    </div>
+    <div id="estrutura_CMD_">
+        <h4 class="topico">Coordenadoria de Mídias e Web (COWEB)</h4>
+        <p class="marcador">Coordenadora: Fábia Galvão Costa Machado</p>
+        <p class="marcador">Telefone: (61) 3030-7421</p>
+        <p class="marcador"><em>E-mail</em>: <a href="mailto:redes.sociais@tse.jus.br">redes.sociais@tse.jus.br</a></p>
+    </div>
+    <div id="estrutura_SCRS_">
+        <h4 class="topico">Seção de Campanhas e Redes Sociais (SECRED)</h4>
+        <p class="marcador">Titular: Rakell Dimanski Macêdo</p>
+        <p class="marcador">Telefone: (61) 3030-7144</p>
+        <p class="marcador"><em>E-mail</em>: <a href="mailto:redes.sociais@tse.jus.br">redes.sociais@tse.jus.br</a>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:campanhas@tse.jus.br">campanhas@tse.jus.br</a>
             </p>
-</div>
-<div id="estrutura_coare">
-<h4 class="topico">Coordenadoria de Acórdãos e Resoluções (COARE)</h4>
-<p class="marcador">Coordenadora: Andréa Faria da Silva</p>
-<p class="marcador">Telefone: (61) 3030-7920</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:coare@tse.jus.br">coare@tse.jus.br</a></p>
-</div>
-<div id="estrutura_semar">
-<h4 class="topico">Seção de Montagens de Acórdãos e Resoluções (SEMAR)</h4>
-<p class="marcador">Titular: Janete Barbosa Freitas da Silva</p>
-<p class="marcador">Telefone: (61) 3030-7886/7883</p>
-<p class="marcador"><em>E-mails</em>: <a href="mailto:semar@tse.jus.br">semar@tse.jus.br</a>, <a href="mailto:janete.silva@tse.jus.br">janete.silva@tse.jus.br</a>, <a href="mailto:alexandre.costa@tse.jus.br">alexandre.costa@tse.jus.br</a></p>
-</div>
-<div id="estrutura_spnotas">
-<h4 class="topico">Seção de Produção de Notas Orais (SPNOTAS)</h4>
-<p class="marcador">Titular: Frederico Augusto Rodrigues Cordeiro</p>
-<p class="marcador">Telefone: (61) 3030-7878</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:frederico.cordeiro@tse.jus.br">frederico.cordeiro@tse.jus.br</a></p>
-</div>
-<div id="estrutura_separ">
-<h4 class="topico">Seção de Processamento e Publicação de Acórdãos e Resoluções (SEPAR)</h4>
-<p class="marcador">Titular: Enimar Moreira Cunha</p>
-<p class="marcador">Telefone: (61) 3030-7912</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:enimar.cunha@tse.jus.br">enimar.cunha@tse.jus.br</a></p>
-</div>
-<div id="estrutura_cpro">
-<h4 class="topico">Coordenadoria de Processamento (CPRO)</h4>
-<p class="marcador">Coordenador: Daniel Vasconcelos Borges Netto</p>
-<p class="marcador">Telefone: (61) 3030-7800</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cpro@tse.jus.br">cpro@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seproc1">
-<h4 class="topico">Seção de Processamento I (SEPROC 1)</h4>
-<p class="marcador">Titular: Haroldo Cesar de Souza Cruz Rodrigues</p>
-<p class="marcador">Telefone: (61) 3030-7820</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seproc1@tse.jus.br">seproc1@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seproc2">
-<h4 class="topico">Seção de Processamento II (SEPROC 2)</h4>
-<p class="marcador">Titular: Ivete Ferreira Marques</p>
-<p class="marcador">Telefone: (61) 3030-7812</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seproc2@tse.jus.br">seproc2@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seproc3">
-<h4 class="topico">Seção de Processamento III (SEPROC 3)</h4>
-<p class="marcador">Titular: Fernando Maurício Pessoa Ramalho Vianna</p>
-<p class="marcador">Telefone: (61) 3030-7807</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seproc3@tse.jus.br">seproc3@tse.jus.br</a></p>
-</div>
-<div id="estrutura_cpadi">
-<h4 class="topico">Coordenadoria de Registros Partidários, Autuação e Distribuição (CPADI)</h4>
-<p class="marcador">Coordenador: Henry Cavalcante Lopes</p>
-<p class="marcador">Telefone: (61) 3030-7846</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cpadi@tse.jus.br">cpadi@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seadi">
-<h4 class="topico">Seção de Autuação e Distribuição (SEADI)</h4>
-<p class="marcador">Titular: Flávia Farias T. Palitot</p>
-<p class="marcador">Telefone: (61) 3030-7847</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seadi@tse.jus.br">seadi@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sedap">
-<h4 class="topico">Seção de Gerenciamento de Dados Partidários (SEDAP)</h4>
-<p class="marcador">Titular: José Wilton Alves Freire</p>
-<p class="marcador">Telefone: (61) 3030-7873</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sedap@tse.jus.br">sedap@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seprom">
-<h4 class="topico">Seção de Classificação Processual e Montagem (SEPROM)</h4>
-<p class="marcador">Titular: Ítala Maria Araújo Santos</p>
-<p class="marcador">Telefone: (61) 3030-7855</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seprom@tse.jus.br">seprom@tse.jus.br</a></p>
-</div>
-</div>
-</div>
-<div class="unidadeSEC">
-<a id="SEC"></a><div id="estrutura_sec">
-<h4 class="topico">Secretaria do Tribunal (SEC)</h4>
-<p class="marcador">Diretor-Geral: Rui Moreira de Oliveira</p>
-<p class="marcador">Telefone: (61) 3030-7375</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:gabdg@tse.jus.br">gabdg@tse.jus.br</a></p>
-</div>
-<a id="GDG"></a><div id="estrutura_gabdirgeral">
-<h4 class="topico">Gabinete do Diretor-Geral (GAB-DG)</h4>
-<p class="marcador">Assessora-Chefe: Julianna Sant'ana Sesconetto</p>
-<p class="marcador">Telefone: (61) 3030-7325 / Secretárias: (61) 3030-7371/7372 / Apoio: (61) 3030-7361/7362</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:gabdg@tse.jus.br">gabdg@tse.jus.br</a></p>
-</div>
-<div id="estrutura_gabdirgeral">
-<h4 class="topico">Comissão Permanente de Ética e Processo Disciplinar (CPEPD)</h4>
-<p class="marcador">Presidente: Juely João Ferreira Silva</p>
-<p class="marcador">Telefone: (61) 3030 7359</p>
-<p class="marcador"><em>E-mail</em>:
-                <a href="mailto:juely.silva@tse.jus.br">juely.silva@tse.jus.br</a></p>
-</div>
-<div id="estrutura_gabdirgeral">
-<h4 class="topico">Assessoria do Centro Cultural da Justiça Eleitoral (ACCJE)</h4>
-<p class="marcador">Assessor-Chefe: Anderson Vidal Corrêa</p>
-<p class="marcador">Telefones: (21) 2263 5844 – Anderson Corrêa / (21) 2263 3258 – Priscila Ferreira / (21) 2263 3266 – Carlos Vianna / (21) 2263 1701 – Joana Pinheiro </p>
-<p class="marcador"><em>E-mail</em>:
-                <a href="mailto:anderson.correa@tse.jus.br">anderson.correa@tse.jus.br</a></p>
-</div>
-<a id="AESI"></a><div id="estrutura_gabdirgeral">
-<h4 class="topico">Assessoria Especial de Segurança e Inteligência (Aesi)</h4>
-<p class="marcador">Assessor-Chefe: Disney Rosseti</p>
-<p class="marcador">Telefone: (61) 3030-7180/7146</p>
-<p class="marcador">Plantão: 3030-9000/9105</p>
-<p class="marcador">Sala da Brigada: (61) 3030-9090/9091</p>
-<p class="marcador"><em>E-mail</em>:
-                <a href="mailto:aesi@tse.jus.br">aesi@tse.jus.br</a></p>
-</div>
-<a id="AGEL"></a><div id="estrutura_agel">
-<h4 class="topico">Assessoria de Gestão Eleitoral (AGEL)</h4>
-<p class="marcador">Assessor-Chefe: Thiago Fini Kanashiro</p>
-<p class="marcador">Telefone: (61) 3030-7352</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:agel@tse.jus.br">agel@tse.jus.br</a></p>
-</div>
-<a id="ASJUR"></a><div id="estrutura_asjur">
-<h4 class="topico">Assessoria Jurídica (ASJUR)</h4>
-<p class="marcador">Assessora-Chefe: Mércia Giselle dos Santos Oliveira</p>
-<p class="marcador">Telefone: (61) 3030-7356</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:asjur@tse.jus.br">asjur@tse.jus.br</a></p>
-</div>
-<div class="unidadeSAD">
-<a id="SAD"></a><div id="estrutura_sad">
-<h4 class="topico">Secretaria de Administração (SAD)</h4>
-<p class="marcador">Secretário: Adaíres Aguiar Lima</p>
-<p class="marcador">Telefone: (61) 3030-8038</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:secadm@tse.jus.br">secadm@tse.jus.br</a></p>
-</div>
-<div id="estrutura_compeli">
-<h4 class="topico">Comissão Permanente de Licitação (CPL)</h4>
-<p class="marcador">Presidente de Comissão: Nathália dos Santos Costa</p>
-<p class="marcador">Telefone: (61) 3030-8172/8165/8168</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cpl@tse.jus.br">cpl@tse.jus.br</a></p>
-</div>
-<div id="estrutura_codaq">
-<h4 class="topico">Coordenadoria de Aquisições (CODAQ)</h4>
-<p class="marcador">Coordenadora: José Rodrigues de Araújo Neto</p>
-<p class="marcador">Telefone: (61) 3030-8059</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:codaq@tse.jus.br">codaq@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seare">
-<h4 class="topico">Seção de Apoio ao Requisitante (SEARE)</h4>
-<p class="marcador">Titular: Marcelo Trindade de Sousa</p>
-<p class="marcador">Telefone: (61) 3030-8116</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:apoioaorequisitante@tse.jus.br">apoioaorequisitante@tse.jus.br</a></p>
-</div>
-<div id="estrutura_secga">
-<h4 class="topico">Seção de Controle de Custo e Gestão de Ata de Registro de Preços (SECGA)</h4>
-<p class="marcador">Titular: Rosângela Moreno Cardoso</p>
-<p class="marcador">Telefone: (61) 3030-8078</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:atas@tse.jus.br">atas@tse.jus.br</a></p>
-</div>
-<div id="estrutura_secomp">
-<h4 class="topico">Seção de Compras (SECOMP)</h4>
-<p class="marcador">Titular: Mari Matsuoka Tomikawa</p>
-<p class="marcador">Telefone: (61) 3030-8102</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:secomp@tse.jus.br">secomp@tse.jus.br</a></p>
-</div>
-<div id="estrutura_secont">
-<h4 class="topico">Seção de Contratos (SECONT)</h4>
-<p class="marcador">Titular: Flávia Brito dos Santos Ferreira</p>
-<p class="marcador">Telefone: (61) 3030-8068/8072 (Whatsapp da Seção)</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:secont@tse.jus.br">secont@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seedi">
-<h4 class="topico">Seção de Editais (SEEDI)</h4>
-<p class="marcador">Titular: Christina da Cruz Silva</p>
-<p class="marcador">Telefone: (61) 3030-8109</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seedi@tse.jus.br">seedi@tse.jus.br</a></p>
-</div>
-<div id="estrutura_cofad">
-<h4 class="topico">Coordenadoria de Fiscalização Administrativa (COFAD)</h4>
-<p class="marcador">Coordenadora: Élvia Caribé Vilhena e Sousa </p>
-<p class="marcador">Telefone:(61) 3030-8200</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:cofad@tse.jus.br">cofad@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sefas">
-<h4 class="topico">Seção de Fiscalização Administrativa I (SEFIS I)</h4>
-<p class="marcador">Titular: Néria Claudina Alves de Oliveira Borges</p>
-<p class="marcador">Telefone: (61) 3030-8089</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:sefis1@tse.jus.br">sefis1@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sefas">
-<h4 class="topico">Seção de Fiscalização Administrativa II (SEFIS II)</h4>
-<p class="marcador">Titular: Marize Cruz Cerqueira </p>
-<p class="marcador">Telefone: (61) 3030-8199</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:sefis2@tse.jus.br">sefis2@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sefas">
-<h4 class="topico">Seção de Apuração de Infrações Contratuais (SEAIC)</h4>
-<p class="marcador">Titular: Janaína dos Santos e Silva Lima</p>
-<p class="marcador">Telefone: (61) 3030-8032</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:seaic@tse.jus.br">seaic@tse.jus.br</a></p>
-</div>
-<div id="estrutura_comap">
-<h4 class="topico">Coordenadoria de Material, Patrimônio e Logística (COMPL)</h4>
-<p class="marcador">Coordenador: José Gomes de Almeida Júnior </p>
-<p class="marcador">Telefone: (61) 3030-8187</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:compl@tse.jus.br">compl@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sealm">
-<h4 class="topico">Seção de Gestão de Almoxarifado (SEALM)</h4>
-<p class="marcador">Titular: Janaína Ribeiro Penna Pereira Paiva</p>
-<p class="marcador">Telefone: (61) 3030-8189</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:sealm@tse.jus.br">sealm@tse.jus.br</a></p>
-</div>
-<div id="estrutura_selmat">
-<h4 class="topico">Seção de Logística de Materiais (SELMAT)</h4>
-<p class="marcador">Titular: Sandra Claudia Ribeiro dos Santos </p>
-<p class="marcador">Telefone: (61) 3030-8178</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:selmat@tse.jus.br">selmat@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sepat">
-<h4 class="topico">Seção de Gestão de Patrimônio (SEPAT)</h4>
-<p class="marcador">Titular: Daniela Andrade Santiago</p>
-<p class="marcador">Telefone: (61) 3030-8179</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:sepat@tse.jus.br">sepat@tse.jus.br</a></p>
-</div>
-<div id="estrutura_setran">
-<h4 class="topico">Seção de Transporte (SETRAN)</h4>
-<p class="marcador">Titular: Eduardo Luiz Lopes Andrade</p>
-<p class="marcador">Telefone: (61) 3030-7178</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:setran@tse.jus.br">setran@tse.jus.br</a></p>
-</div>
-<div id="estrutura_comap">
-<h4 class="topico">Coordenadoria de Serviços, Engenharia e Arquitetura (COSEN)</h4>
-<p class="marcador">Coordenador: Ivaldo Pinto de Oliveira Júnior</p>
-<p class="marcador">Telefone: (61) 3030-8225</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:cosen@tse.jus.br">cosen@tse.jus.br</a></p>
-</div>
-<div id="estrutura_senge">
-<h4 class="topico">Seção de Engenharia, Arquitetura e Projetos (SENAP)</h4>
-<p class="marcador">Titular: Ana Lúcia Lopes Zeredo</p>
-<p class="marcador">Telefone: (61) 3030-8246</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:senap@tse.jus.br">senap@tse.jus.br</a></p>
-</div>
-<div id="estrutura_senge">
-<h4 class="topico">Seção de Equipamentos e Sistemas de Engenharia (SESEN)</h4>
-<p class="marcador">Titular: Jair Altino de Carvalho Júnior </p>
-<p class="marcador">Telefone: (61) 3030-8231</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:sesen@tse.jus.br">sesen@tse.jus.br</a></p>
-</div>
-<div id="estrutura_senge">
-<h4 class="topico">Seção de Gestão de Serviços Gerais e Técnicos (SEGET)</h4>
-<p class="marcador">Titular: Maria Angélica Ramiro Silva Pieroni</p>
-<p class="marcador">Telefone: (61) 3030-8244/8201/8202</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:senge@tse.jus.br">senge@tse.jus.br</a></p>
-</div>
-</div>
-<div class="unidadeSDA">
-<a id="SDAU"></a><div id="estrutura_sad">
-<h4 class="topico">Secretaria de Auditoria (SAU)</h4>
-<p class="marcador">Secretário: -</p>
-<p class="marcador">Telefone: (61) 3030-7307</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:auditoria@tse.jus.br">auditoria@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sad">
-<h4 class="topico">Coordenadoria de Auditoria (COAUD)</h4>
-<p class="marcador">Coordenadora: Érika de Oliveira dos Santos Scozziero </p>
-<p class="marcador">Telefone: (61) 3030-7305</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:coaud@tse.jus.br">coaud@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seaud">
-<h4 class="topico">Seção de Auditoria de Desempenho (SEAUD)</h4>
-<p class="marcador">Titular: Evandro da Cunha Menezes</p>
-<p class="marcador">Telefone: (61) 3030-7309</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seaud@tse.jus.br">seaud@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seaug">
-<h4 class="topico">Seção de Auditoria de Gestão (SEAUG)</h4>
-<p class="marcador">Titular: Humberto Garcia Cardoso</p>
-<p class="marcador">Telefone: (61) 3030-7311</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seaug@tse.jus.br">seaug@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seaup">
-<h4 class="topico">Seção de Auditoria de Pessoal (SEAUP)</h4>
-<p class="marcador">Titular: Sílvia Caldas Ferreira</p>
-<p class="marcador">Telefone: (61) 3030-7265</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seaup@tse.jus.br">seaup@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sad">
-<h4 class="topico">Coordenadoria de Auditoria de Governança e Gestão de Aquisições (COAUG)</h4>
-<p class="marcador">Secretário: Carlos Ramon da Silva Santos</p>
-<p class="marcador">Telefone: (61) 3030-7269</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:coaug@tse.jus.br">coaug@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seaut">
-<h4 class="topico">Seção de Auditoria de Tecnologia da Informação (SEAUT)</h4>
-<p class="marcador">Titular: Dênis Paiva Carvalho</p>
-<p class="marcador">Telefone: (61) 3030-7262</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:seaut@tse.jus.br">seaut@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sad">
-<h4 class="topico">Seção de Auditoria de Contratos e Convênios (SEACO)</h4>
-<p class="marcador">Titular: Daniel Adjafre da Costa Matos </p>
-<p class="marcador">Telefone: (61) 3030-7261</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:seaco@tse.jus.br">seaco@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sad">
-<h4 class="topico">Seção de Auditoria de Aquisições (SEAAQ)</h4>
-<p class="marcador">Titular: Danilo Rodrigues Nunes</p>
-<p class="marcador">Telefone: (61) 3030-7261</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:seaaq@tse.jus.br">seaaq@tse.jus.br</a></p>
-</div>
-</div>
-<div class="unidadeSGI">
-<a id="SGI"></a><div id="estrutura_sgi">
-<h4 class="topico">Secretaria de Gestão da Informação (SGI)</h4>
-<p class="marcador">Secretário: Cleber Schumann</p>
-<p class="marcador">Telefone: (61) 3030-9225</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sgi@tse.jus.br">sgi@tse.jus.br</a></p>
-</div>
-<div id="estrutura_cedip">
-<h4 class="topico">Coordenadoria de Editoração e Publicações (CEDIP)</h4>
-<p class="marcador">Coordenador: Washington Luiz de Oliveira</p>
-<p class="marcador">Telefone: (61) 3030-9323</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cedip@tse.jus.br">cedip@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seprov">
-<h4 class="topico">Seção de Editoração e Programação Visual (SEPROV)</h4>
-<p class="marcador">Titular: Paulo Renato Thummerer Nicolini</p>
-<p class="marcador">Telefone: (61) 3030-9181</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seprov@tse.jus.br">seprov@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seprev">
-<h4 class="topico">Seção de Preparação e Revisão de Conteúdos (SEPREV)</h4>
-<p class="marcador">Titular: Tatiana Viana Fraga</p>
-<p class="marcador">Telefone: (61) 3030-9175</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seprev@tse.jus.br">seprev@tse.jus.br</a></p>
-</div>
-<div id="estrutura_segraf">
-<h4 class="topico">Seção de Serviços Gráficos (SEGRAF)</h4>
-<p class="marcador">Titular: Camila Melo Oliveira</p>
-<p class="marcador">Telefone: (61) 3030-9161</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:segraf@tse.jus.br">segraf@tse.jus.br</a></p>
-</div>
-<div id="estrutura_coged">
-<h4 class="topico">Coordenadoria de Gestão Documental (COGED)</h4>
-<p class="marcador">Coordenador: Yan Amaral Engelke</p>
-<p class="marcador">Telefone: (61) 3030-9250</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:coged@tse.jus.br">coged@tse.jus.br</a></p>
-</div>
-<div id="estrutura_searq">
-<h4 class="topico">Seção de Arquivo (SEARQ)</h4>
-<p class="marcador">Titular: Júlio César Sousa Gomes</p>
-<p class="marcador">Telefone: (61) 3030-9117</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:arquivo@tse.jus.br">arquivo@tse.jus.br</a></p>
-</div>
-<div id="estrutura_segedoc">
-<h4 class="topico">Seção de Gestão de Documentos Eletrônicos (SEGEDOC)</h4>
-<p class="marcador">Titular: Christiano José Schroder Barbalho de Oliveira</p>
-<p class="marcador">Telefone: (61) 3030-9272</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:segedoc@tse.jus.br">segedoc@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seprot">
-<h4 class="topico">Seção de Protocolo Administrativo e Expedição (SEPROT)</h4>
-<p class="marcador">Titular: Diana de Carvalho L. de Araújo Palhano</p>
-<p class="marcador">Telefone: (61) 3030-9290</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:protocolo@tse.jus.br">protocolo@tse.jus.br</a></p>
-</div>
-<div id="estrutura_cojur">
-<h4 class="topico">Coordenadoria de Jurisprudência, Biblioteca, Legislação e Museu</h4>
-<p class="marcador">Coordenadora: Cláudia Gontijo Corrêa Cahú</p>
-<p class="marcador">Telefone: (61) 3030-9229</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:gabcojur@tse.jus.br">gabcojur@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seajur">
-<h4 class="topico">Seção de Conteúdos de Jurisprudência (Secjur)</h4>
-<p class="marcador">Titular: Idenir Santos de Oliveira</p>
-<p class="marcador">Telefone: (61) 3030-9246</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:jurisprudencia@tse.jus.br">jurisprudencia@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seleg">
-<h4 class="topico">Seção de Legislação (SELEG)</h4>
-<p class="marcador">Titular: Diego Messina Felisbino</p>
-<p class="marcador">Telefone: (61) 3030-9232</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seleg@tse.jus.br">seleg@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sepjur">
-<h4 class="topico">Seção de Divulgação de Jurisprudência (Sedjur)</h4>
-<p class="marcador">Titular: Leonardo Augusto Soares Del Menezzi</p>
-<p class="marcador">Telefone: (61) 3030-9257</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:jurisprudencia@tse.jus.br">jurisprudencia@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sedjur">
-<h4 class="topico">Seção de Gestão de Dados de Jurisprudência (Segjur)</h4>
-<p class="marcador">Titular: Gustavo Minucci de Moura Leite</p>
-<p class="marcador">Telefone: (61) 3030-9236</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:jurisprudencia@tse.jus.br">jurisprudencia@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sebbl">
-<h4 class="topico">Seção de Biblioteca (SEBBL)</h4>
-<p class="marcador">Titular: Lígia Cavalcante Ponte</p>
-<p class="marcador">Telefone: (61) 3030-9296</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:biblioteca@tse.jus.br">biblioteca@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sebbd">
-<h4 class="topico">Seção de Biblioteca Digital (SEBBD)</h4>
-<p class="marcador">Titular: Geraldo Campetti Sobrinho</p>
-<p class="marcador">Telefone: (61) 3030-9286 </p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sebbd@tse.jus.br">sebbd@tse.jus.br</a></p>
-</div>
-<div id="estrutura_semus">
-<h4 class="topico">Seção de Museu (SEMUS)</h4>
-<p class="marcador">Titular: Admilson Siqueira e Silva Júnior</p>
-<p class="marcador">Telefone: (61) 3030-9291</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:museu@tse.jus.br">museu@tse.jus.br</a></p>
-</div>
-</div>
-<div class="unidadeSGP">
-<a id="SGP"></a><div id="estrutura_sgp">
-<h4 class="topico">Secretaria de Gestão de Pessoas (SGP)</h4>
-<p class="marcador">Secretária: Ana Cláudia Braga Mendonça</p>
-<p class="marcador">Telefone: (61) 3030-8287</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sgp@tse.jus.br">sgp@tse.jus.br</a></p>
-</div>
-<div id="estrutura_cats">
-<h4 class="topico">Núcleo de Apoio à Gestão de Pessoas</h4>
-<p class="marcador">Titular: Anne Jacqueline Soares de Sales</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_cats">
-<h4 class="topico">Coordenadoria de Atenção à Saúde (CATS)</h4>
-<p class="marcador">Coordenadora: Dea Márcia da Silva Pereira</p>
-<p class="marcador">Telefone: (61) 3030-8414</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cats@tse.jus.br">cats@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seadm">
-<h4 class="topico">Seção de Apoio Administrativo (SEADM)</h4>
-<p class="marcador">Titular: Raphael Barbosa Castro</p>
-<p class="marcador">Telefone: (61) 3030-8489</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:atestados@tse.jus.br">atestados@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seame">
-<h4 class="topico">Seção de Atenção Médica e de Enfermagem (SEAME)</h4>
-<p class="marcador">Titular: Paulo Ricardo de Fernando Rocha</p>
-<p class="marcador">Telefone: (61) 3030-8488</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seame@tse.jus.br">seame@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seato">
-<h4 class="topico">Seção de Atenção Odontológica (SEATO)</h4>
-<p class="marcador">Titular: Denise Poubel Vilar</p>
-<p class="marcador">Telefone: (61) 3030-8506/8507</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seato@tse.jus.br">seato@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seasp">
-<h4 class="topico">Seção de Atenção Social e Psicológica (SEASP)</h4>
-<p class="marcador">Titular: Oracélia Rosa Sichera</p>
-<p class="marcador">Telefone: (61) 3030-8501/8512</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seasp@tse.jus.br">seasp@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seaf">
-<h4 class="topico">Seção de Atenção Fisioterapêutica (SEAF)</h4>
-<p class="marcador">Titular: Raquel Rodrigues Gontijo</p>
-<p class="marcador">Telefone: (61) 3030-8558</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seaf@tse.jus.br">seaf@tse.jus.br</a></p>
-</div>
-<div id="estrutura_coede">
-<h4 class="topico">Coordenadoria de Educação e Desenvolvimento (COEDE)</h4>
-<p class="marcador">Coordenadora: Ana Claudia Chagas Estelita Lins</p>
-<p class="marcador">Telefone: (61) 3030-8352</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:coede@tse.jus.br">coede@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sedes">
-<h4 class="topico">Seção de Desenvolvimento Organizacional (SEDES)</h4>
-<p class="marcador">Titular: Giselle Auxiliadora Borges Viegas</p>
-<p class="marcador">Telefone:(61) 3030-8379/8371</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sedes@tse.jus.br">sedes@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sedes">
-<h4 class="topico">Seção de Tecnologias Educacionais (SETED)</h4>
-<p class="marcador">Titular: Mônica de Jesus Simões</p>
-<p class="marcador">Telefone: (61) 3030-7935</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:ead@tse.jus.br">ead@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seduc">
-<h4 class="topico">Seção de Educação Corporativa (SEDUC)</h4>
-<p class="marcador">Titular: Marcelo Morais de Souza</p>
-<p class="marcador">Telefone: (61) 3030-8360</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:educacao@tse.jus.br">educacao@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seeve">
-<h4 class="topico">Seção de Eventos e Cidadania Corporativa</h4>
-<p class="marcador">Titular: Marlon Van Juen Sun</p>
-<p class="marcador">Telefone: (61) 3030-8573</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:eventos@tse.jus.br">eventos@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seged">
-<h4 class="topico">Seção de Lotação e Gestão de Desempenho (SEGED)</h4>
-<p class="marcador">Titular: Paula Christina Batista dos Santos</p>
-<p class="marcador">Telefone: (61) 3030-8357</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seged@tse.jus.br">seged@tse.jus.br</a></p>
-</div>
-<div id="estrutura_copes">
-<h4 class="topico">Coordenadoria de Pessoal (COPES)</h4>
-<p class="marcador">Coordenador: Zélia Oliveira de Miranda</p>
-<p class="marcador">Telefone: (61) 3030-8300</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:copes@tse.jus.br">copes@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seben">
-<h4 class="topico">Seção de Benefícios (SEBEN)</h4>
-<p class="marcador">Titular: Raquel Ribeiro Teles</p>
-<p class="marcador">Telefone: (61) 3030-8347</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seben@tse.jus.br">seben@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sepag">
-<h4 class="topico">Seção de Pagamentos (SEPAG)</h4>
-<p class="marcador">Titular: Erika Tavares Gonçalves Vidal Corrêa</p>
-<p class="marcador">Telefone: (61) 3030-8320</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sepag@tse.jus.br">sepag@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seref">
-<h4 class="topico">Seção de Registros Funcionais (SEREF)</h4>
-<p class="marcador">Titular: Juliana Greimel Bernardes</p>
-<p class="marcador">Telefone: (61) 3030-8308</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seref@tse.jus.br">seref@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seref">
-<h4 class="topico">Seção de Gestão da Frequência (SEGEF)</h4>
-<p class="marcador">Titular: Santuzza de Almeida Castro Kammoun</p>
-<p class="marcador">Telefone: 3030-8310 (Whatsapp da Seção)</p>
-<p class="marcador"><em>E-mail</em>:
-                    <a href="mailto:segef@tse.jus.br">segef@tse.jus.br</a></p>
-</div>
-<div id="estrutura_cotejur">
-<h4 class="topico">Coordenadoria Técnica (COTEC)</h4>
-<p class="marcador">Coordenador: Rodrigo Emanuel Couto</p>
-<p class="marcador">Telefone: (61) 3030-8290</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cotec@tse.jus.br">cotec@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seatec">
-<h4 class="topico">Seção de Análise Técnico-Processual (SEATEC)</h4>
-<p class="marcador">Titular: Pedro Biagi da Silva</p>
-<p class="marcador">Telefone: (61) 3030-8343/8292</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seatec@tse.jus.br">seatec@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sedid">
-<h4 class="topico">Seção de Direitos e Deveres (SEDID)</h4>
-<p class="marcador">Titular: Simone Coelho Pereira Matsunaga</p>
-<p class="marcador">Telefone: (61) 3030-8333/8291</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sedid@tse.jus.br">sedid@tse.jus.br</a></p>
-</div>
-</div>
-</div>
-<div class="unidadeSMGES">
-<a id="SPSMG"></a><div id="estrutura_sgp">
-<h4 class="topico">Secretaria de Modernização, Gestão Estratégica e Socioambiental (SMG)</h4>
-<p class="marcador">Secretário: Bruno Cezar Andrade de Souza </p>
-<p class="marcador">Telefone: (61) 3030-7176</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:smg@tse.jus.br">smg@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sgp">
-<h4 class="topico">Coordenadoria de Gestão Estratégica e Socioambiental (COGESO)</h4>
-<p class="marcador">Coordenador: Daniel Carlos Lima Corrêa</p>
-<p class="marcador">Telefone: (61) 3030-7424</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cogeso@tse.jus.br">cogeso@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sgp">
-<h4 class="topico">Seção de Gestão Estratégica e Governança (SEGGO)</h4>
-<p class="marcador">Titular: Ladjane Souza de Arruda</p>
-<p class="marcador">Telefone: (61) 3030-7301</p>
-<p class="marcador"><em>E-mail</em>:
-                <a href="mailto:seggo@tse.jus.br">seggo@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sgp">
-<h4 class="topico">Seção de Gestão Socioambiental (SEGESA)</h4>
-<p class="marcador">Titular: Diogo do Ybiti Lopes Silveira</p>
-<p class="marcador">Telefone: (61) 3030-7194</p>
-<p class="marcador"><em>E-mail</em>:
-                <a href="mailto:socioambiental@tse.jus.br">socioambiental@tse.jus.br</a></p>
-</div>
-</div>
-<div id="estrutura_sgp">
-<h4 class="topico">Coordenadoria de Modernização</h4>
-<p class="marcador">Coordenador: Célio Castro Wermelinger</p>
-<p class="marcador">Telefone: (61) 3030-7424</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:comor@tse.jus">comor@tse.jus</a></p>
-</div>
-<div id="estrutura_sgp">
-<h4 class="topico">Seção de Modernização de Serviços ao Eleitor (SEMOSE)</h4>
-<p class="marcador">Titular: Venância Medina Lopes </p>
-<p class="marcador">Telefone: (61) 3030-7350</p>
-<p class="marcador"><em>E-mail</em>:
-                <a href="mailto:semose@tse.jus.br">semose@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sgp">
-<h4 class="topico">Seção de Dados Estratégicos Gerenciais (SEDEG)</h4>
-<p class="marcador">Titular: Leonardo Ferreira de Oliveira</p>
-<p class="marcador">Telefone: (61) 3030-7133</p>
-<p class="marcador"><em>E-mail</em>:
-                <a href="mailto:sedeg@tse.jus.br">sedeg@tse.jus.br</a></p>
-</div>
-<div class="unidadeSOF">
-<a id="SPOFC"></a><div id="estrutura_sof">
-<h4 class="topico">Secretaria de Planejamento, Orçamento, Finanças e Contabilidade (SOF)</h4>
-<p class="marcador">Secretário: Eduardo Demetrio Bechara</p>
-<p class="marcador">Telefone: (61) 3030-7630</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sof@tse.jus.br">sof@tse.jus.br</a></p>
-</div>
-<div id="estrutura_ceofi">
-<h4 class="topico">Coordenadoria de Execução Orçamentária e Financeira (CEOFI)</h4>
-<p class="marcador">Coordenadora: Jean Carla Rodrigues Carvalho</p>
-<p class="marcador">Telefone: (61) 3030-8141</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:ceofi@tse.jus.br">ceofi@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seapre">
-<h4 class="topico">Seção de Acompanhamento e Processamento de Restos a Pagar (SEAPRE)</h4>
-<p class="marcador">Titular: Daniela Alves G. de Carvalho</p>
-<p class="marcador">Telefone: (61) 3030-8151/8160</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seapre@tse.jus.br">seapre@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seat">
-<h4 class="topico">Seção de Análise Técnica (SEAT)</h4>
-<p class="marcador">Titular: Mauro José Silva Amorim</p>
-<p class="marcador">Telefone: (61) 3030-8152</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seat@tse.jus.br">seat@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sefin">
-<h4 class="topico">Seção de Execução Financeira (SEFIN)</h4>
-<p class="marcador">Titular: Irinaldo Portuguez da Cunha</p>
-<p class="marcador">Telefone: (61) 3030-8146</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sefin@tse.jus.br">sefin@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seor">
-<h4 class="topico">Seção de Execução Orçamentária (SEOR)</h4>
-<p class="marcador">Titular: Paulo César Vieira de Lima</p>
-<p class="marcador">Telefone: (61) 3030-8135</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seor@tse.jus.br">seor@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sepcd">
-<h4 class="topico">Seção de Seção de Prestação de Contas e Conformidade Documental (SEPCD)</h4>
-<p class="marcador">Titular: José Antônio Vale da Silva</p>
-<p class="marcador">Telefone: (61) 3030-8127</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sepcd@tse.jus.br">sepcd@tse.jus.br</a></p>
-</div>
-<div id="estrutura_cofic">
-<h4 class="topico">Coordenadoria de Finanças e Contabilidade (COFIC)</h4>
-<p class="marcador">Coordenadora: Juthy Maria Campos Rodrigues Pereira</p>
-<p class="marcador">Telefone: (61) 3030-7684</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:cofic@tse.jus.br">cofic@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seafin">
-<h4 class="topico">Seção de Administração Financeira (SEAFIN)</h4>
-<p class="marcador">Titular: Sérgio Aparecido de Oliveira</p>
-<p class="marcador">Telefone: (61) 3030-7665</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seafin@tse.jus.br">seafin@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seconta">
-<h4 class="topico">Seção de Contabilidade Analítica (SECONTA)</h4>
-<p class="marcador">Titular: Lucinei de Oliveira Pereira</p>
-<p class="marcador">Telefone: (61) 3030-7675</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seconta@tse.jus.br">seconta@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seconge">
-<h4 class="topico">Seção de Contabilidade Gerencial (SECONGE)</h4>
-<p class="marcador">Titular: Anderson Passos Zica</p>
-<p class="marcador">Telefone: (61) 3030-7716</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seconge@tse.jus.br">seconge@tse.jus.br</a></p>
-</div>
-<div id="estrutura_codec">
-<h4 class="topico">Coordenadoria de Orçamento de Despesas Obrigatórias e Custos (CODEC)</h4>
-<p class="marcador">Coordenadora: Renata Mansur Japur</p>
-<p class="marcador">Telefone: (61) 3030-7637</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:codec@tse.jus.br">codec@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sedaf">
-<h4 class="topico">Seção de Análise de Dados Físicos das Despesas Obrigatórias (SEDAF)</h4>
-<p class="marcador">Titular: Magda Maria dos Santos</p>
-<p class="marcador">Telefone: </p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sedaf@tse.jus.br">sedaf@tse.jus.br</a></p>
-</div>
-<div id="estrutura_segec">
-<h4 class="topico">Seção de Gerenciamento de Custos (SEGEC)</h4>
-<p class="marcador">Titular: Marcelo Prates Grangeiro</p>
-<p class="marcador">Telefone: (61) 3030-7654</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:segec@tse.jus.br">segec@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sedob">
-<h4 class="topico">Seção de Orçamento de Despesas Obrigatórias (SEDOB)</h4>
-<p class="marcador">Titular: Janaina Maria Braga Ferreira</p>
-<p class="marcador">Telefone: (61) 3030-7638</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sedob@tse.jus.br">sedob@tse.jus.br</a></p>
-</div>
-<div id="estrutura_copor">
-<h4 class="topico">Coordenadoria de Planejamento e Orçamento (COPOR)</h4>
-<p class="marcador">Coordenador: Aloísio Mayworm Pereira Júnior</p>
-<p class="marcador">Telefone: (61) 3030-7627</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:copor@tse.jus.br">copor@tse.jus.br</a></p>
-</div>
-<div id="estrutura_segeor">
-<h4 class="topico">Seção de Gerenciamento Orçamentário (SEGEOR)</h4>
-<p class="marcador">Titular: Carlos André Pereira da Silva</p>
-<p class="marcador">Telefone: (61) 3030-7653</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:segeor@tse.jus.br">segeor@tse.jus.br</a></p>
-</div>
-<div id="estrutura_senor">
-<h4 class="topico">Seção de Normas Orçamentárias (SENOR)</h4>
-<p class="marcador">Titular: Raquel Fernandes Carlos</p>
-<p class="marcador">Telefone: (61) 3030-7677</p>
-<p class="marcador"><em>E-mail</em>:
-                <a href="mailto:senor@tse.jus.br">senor@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seplan">
-<h4 class="topico">Seção de Planejamento (SEPLAN)</h4>
-<p class="marcador">Titular: Elaine Marinho Coelho</p>
-<p class="marcador">Telefone: (61) 3030-7646</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seplan@tse.jus.br">seplan@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sepor">
-<h4 class="topico">Seção de Programação Orçamentária (SEPOR)</h4>
-<p class="marcador">Titular: Andréa Marques Pôrto</p>
-<p class="marcador">Telefone: (61) 3030-7661</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sepor@tse.jus.br">sepor@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sepor">
-<h4 class="topico">Seção de Gestão Orçamentária (SEGES)</h4>
-<p class="marcador">Titular: Nara Fontoura Portuguez</p>
-<p class="marcador">Telefone: (61) 3030-8046</p>
-<p class="marcador"><em>E-mail</em>:
-                <a href="https://www.tse.jus.br/o-tse/sobre-o-tse/seges@tse.jus.br">seges@tse.jus.br</a></p>
-</div>
-</div>
-<div class="unidadeSTI">
-<a id="STI"></a><div id="estrutura_sti">
-<h4 class="topico">Secretaria de Tecnologia da Informação (STI)</h4>
-<p class="marcador">Secretário: Julio Valente da Costa Junior</p>
-<p class="marcador">Telefone: (61) 3030-8882</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:julio.valente@tse.jus.br">julio.valente@tse.jus.br</a></p>
-</div>
-<div id="estrutura_cogti">
-<h4 class="topico">Assessoria de Gestão do Conhecimento e Modernização de TI</h4>
-<p class="marcador">Assessor: -</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_seai">
-<h4 class="topico">Núcleo Estratégico de Gestão de Segurança Cibernética</h4>
-<p class="marcador">Titular: Carlos Eduardo Miranda Zottmann</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_segbio">
-<h4 class="topico">Núcleo Estratégico de Gestão de Portifólio e Compliance</h4>
-<p class="marcador">Titular: Eduardo Fleury Nogueira</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_seproj">
-<h4 class="topico">Núcleo Estratégico de Comunicação de Informática</h4>
-<p class="marcador">Titular: Marcelo Lauriano Lúcio</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_cogti">
-<h4 class="topico">Coordenadoria de Arquitetura, Identificação e Inovação</h4>
-<p class="marcador">Coordenador: -</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_seai">
-<h4 class="topico">Seção de Arquitetura da Informação (SEAI)</h4>
-<p class="marcador">Titular: Jonas Pereira da Silva Júnior</p>
-<p class="marcador">Telefone: (61) 3030-8932</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seai@tse.jus.br">seai@tse.jus.br</a></p>
-</div>
-<div id="estrutura_segbio">
-<h4 class="topico">Seção de Ciência de Dados</h4>
-<p class="marcador">Titular: -</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_seproj">
-<h4 class="topico">Seção de Identificação Biométrica</h4>
-<p class="marcador">Titular: -</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_sescon">
-<h4 class="topico">Seção de Soluções em Aplicativos Móveis</h4>
-<p class="marcador">Titular: Francisco Lopes de Farias</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>:  -</p>
-</div>
-<div id="estrutura_sipt">
-<h4 class="topico">Seção de Inovação e Apoio à Produção de Software (SINAPS)</h4>
-<p class="marcador">Titular: André Luís Vidigal Soares de Andrade</p>
-<p class="marcador">Telefone: 3030-8818</p>
-<p class="marcador"><em>E-mail</em>:
-                <a href="mailto:sinaps.tse@tse.jus.br">sinaps.tse@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sescon">
-<h4 class="topico">Seção de  Serviços de TI e Service Desk</h4>
-<p class="marcador">Titular: Sílvia Alves Guimarães</p>
-<p class="marcador">Telefone: (61) 3030-8635</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sescon@tse.jus.br">sescon@tse.jus.br</a></p>
-</div>
-<div id="estrutura_coinf">
-<h4 class="topico">Coordenadoria de Infraestrutura de TI (COINF)</h4>
-<p class="marcador">Coordenador: Cristiano Moreira Andrade</p>
-<p class="marcador">Telefone: (61) 3030-8970</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:coinf@tse.jus.br">coinf@tse.jus.br</a></p>
-</div>
-<div id="estrutura_coinf">
-<h4 class="topico">Núcleo de Apoio Técnico às Contratações de Infraestrutura</h4>
-<p class="marcador">Titular: Evelaine Antônio Trindade</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_seau">
-<h4 class="topico">Seção de Apoio ao Usuário (SEAU)</h4>
-<p class="marcador">Titular: Luciano Teixeira Andrade</p>
-<p class="marcador">Telefone: (61) 3030-8736</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:seau@tse.jus.br">seau@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sebd">
-<h4 class="topico">Seção de Defesa Cibernética</h4>
-<p class="marcador">Titular: Marcelo Carneiro Rodrigues</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sebd@tse.jus.br">sebd@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sepd">
-<h4 class="topico">Seção de Suporte a Aplicações (SEPD)</h4>
-<p class="marcador">Titular: -</p>
-<p class="marcador">Telefone: (61) 3030-8625</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sepd@tse.jus.br">sepd@tse.jus.br</a></p>
-</div>
-<div id="estrutura_semop">
-<h4 class="topico">Seção de Monitoramento e Produção (SEMOP)</h4>
-<p class="marcador">Titular: Humberto de Melo Falcão Neto</p>
-<p class="marcador">Telefone: (61) 3030-9058</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:semop@tse.jus.br">semop@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sesap">
-<h4 class="topico">Seção de Pesquisa e Sustentação de Banco de Dados</h4>
-<p class="marcador">Titular: Ivanildo Ferreira Gomes</p>
-<p class="marcador">Telefone: (61) 3030-8992/8993/8990/8991/8997/8996/8989/8987</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sesap@tse.jus.br">sesap@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sesop">
-<h4 class="topico">Seção de Suporte Operacional (SESOP)</h4>
-<p class="marcador">Titular: Alexandre de Jesus Paschoal</p>
-<p class="marcador">Telefone: (61) 3030-8971</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:sesop@tse.jus.br">sesop@tse.jus.br</a></p>
-</div>
-<div id="estrutura_csele">
-<h4 class="topico">Coordenadoria de Sistemas Eleitorais (CSELE)</h4>
-<p class="marcador">Coordenador: José de Melo Cruz</p>
-<p class="marcador">Telefone: (61) 3030-8850</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:csele@tse.jus.br">csele@tse.jus.br</a></p>
-</div>
-<div id="estrutura_secon">
-<h4 class="topico">Seção de Integração, Garantia e Controle de Qualidade de Soluções</h4>
-<p class="marcador">Titular: -</p>
-<p class="marcador">Telefone: (61) 3030-8795</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_secad">
-<h4 class="topico">Seção de Cadastro de Eleitor (SECAD)</h4>
-<p class="marcador">Titular: Fernando Garcia de Medeiros Júnior</p>
-<p class="marcador">Telefone: (61) 3030-8861</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:secad@tse.jus.br">secad@tse.jus.br</a> - <strong>Para atendimento ao eleitor, entrar em contato por meio da <a href="https://www.tse.jus.br/eleitor/servicos/ouvidoria/formulario-da-assessoria-de-informacao-ao-cidadao">Ouvidoria</a></strong></p>
-</div>
-<div id="estrutura_secinp">
-<h4 class="topico">Seção de Candidaturas e Informações Partidárias (SECINP)</h4>
-<p class="marcador">Titular: Wellington Galdino Evangelista</p>
-<p class="marcador">Telefone: (61) 3030-8723</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:secinp@tse.jus.br">secinp@tse.jus.br</a></p>
-</div>
-<div id="estrutura_setot">
-<h4 class="topico">Seção de Totalização e Divulgação de Resultados (SETOT)</h4>
-<p class="marcador">Titular: Alberto Araújo Cavalcante Neto</p>
-<p class="marcador">Telefone: (61) 3030-8741</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:alberto.cavalcante@tse.jus.br">alberto.cavalcante@tse.jus.br</a>/<a href="mailto:setot@tse.jus.br">setot@tse.jus.br</a></p>
-</div>
-<div id="estrutura_cotel">
-<h4 class="topico">Coordenadoria de Tecnologia Eleitoral (COTEL)</h4>
-<p class="marcador">Coordenador: Rafael Fernandes de Barros Costa Azevedo</p>
-<p class="marcador">Telefone: (61) 3030-8894</p>
-<p class="marcador"><em>E-mail</em>: <a href="mailto:gabcotel@tse.jus.br">gabcotel@tse.jus.br</a></p>
-</div>
-<div id="estrutura_seue">
-<h4 class="topico">Seção de Gestão Integrada de Tecnologia Eleitoral </h4>
-<p class="marcador">Titular: -</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_sipt">
-<h4 class="topico">Seção de Gestão de Certificação Digital</h4>
-<p class="marcador">Titular: Francisco Dejardene Moura da Silva</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_sipt">
-<h4 class="topico">Seção de Voto Informatizado</h4>
-<p class="marcador">Titular: -</p>
-<p class="marcador">Telefone: (61) 3030-8951</p>
-<p class="marcador"><em>E-mail</em>:
-                <a href="mailto:segele@tse.jus.br">segele@tse.jus.br</a></p>
-</div>
-<div id="estrutura_sipt">
-<h4 class="topico">Seção de Gestão das Urnas Eletrônicas</h4>
-<p class="marcador">Titular: -</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>:
-                -</p>
-</div>
-<div id="estrutura_sevin">
-<h4 class="topico">Seção de Tecnologia de Urnas Eletrônicas</h4>
-<p class="marcador">Titular: -</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_cotel">
-<h4 class="topico">Coordenadoria de  Soluções Processuais e Partidárias</h4>
-<p class="marcador">Coordenadora: Ana Karinne Siqueira de Andrade dos Santos</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_seue">
-<h4 class="topico">Núcleo de Apoio Técnico às Integrações com o Processo Judicial Eletrônico</h4>
-<p class="marcador">Titular: Fábio Aragão Dourado </p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_sipt">
-<h4 class="topico">Seção de Automação à Jurisprudência, Procedimentos Administrativos e Comunicações Processuais</h4>
-<p class="marcador">Titular: Othon Henrique Rego Aranha </p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_sipt">
-<h4 class="topico">Seção de Automação de Obrigações Partidárias e Eleitorais</h4>
-<p class="marcador">Titular: Marcos Vinícius Amorim Ferreira Guimarães </p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>:  -</p>
-</div>
-<div id="estrutura_sipt">
-<h4 class="topico">Seção de Suporte e Inovação ao Processo Judicial Eletrônico</h4>
-<p class="marcador">Titular: Cássio Veiga Ramos </p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-<div id="estrutura_cotel">
-<h4 class="topico">Coordenadoria de Sistemas Administrativos</h4>
-<p class="marcador">Coordenador: Lucas Ferreira de Lima</p>
-<p class="marcador">Telefone: -</p>
-<p class="marcador"><em>E-mail</em>: -</p>
-</div>
-</div>
-</div></section></main></div></div>
-</div>
-                </div>
+    </div>
+    <div id="estrutura_SGCW_">
+        <h4 class="topico">Seção de Gestão de Conteúdos Web (SGWEB)</h4>
+        <p class="marcador">Titular: Flávia Parreira Carril Pinheiro</p>
+        <p class="marcador">Telefone: (61) 3030-9325</p>
+        <p class="marcador"><em>E-mail</em>: <a href="mailto:sgweb@tse.jus.br">sgweb@tse.jus.br</a></p>
+        <p class="marcador"><em>E-mail</em>: <a href="mailto:suporteportal@tse.jus.br">suporteportal@tse.jus.br</a></p>
+    </div>
+
+    <a id="SUBSTITUTOS"></a>
+    <div id="AAMS">
+        <h4 class="topico">Assessoria de Apoio aos Ministros Substitutos (AAMS)</h4>
+        <p class="marcador">Assessor-Chefe: Sérgio Ricardo dos Santos</p>
+        <p class="marcador">Telefone: (61) 3030-7232/7196/7550/7551</p>
+        <p class="marcador"><em>E-mail</em>: <a href="mailto:aams@tse.jus.br">aams@tse.jus.br</a></p>
+    </div>
+    <a id="AGI"></a>
+    <div id="estrutura_gestao_identificacao">
+        <h4 class="topico">Assessoria de Gestão de Identificação (AGI)</h4>
+        <p class="marcador">Assessor-Chefe: -</p>
+        <p class="marcador">Telefone: (61) 3030-7238 / (61) 9.9864-9871</p>
+        <p class="marcador"><em>E-mail</em>: <a href="mailto:agi@tse.jus.br">agi@tse.jus.br</a></p>
+        <a id="ASPLEN"></a>
+        <div id="estrutura_asplen">
+            <h4 class="topico">Assessoria de Plenário (ASPLEN)</h4>
+            <p class="marcador">Assessora-Chefe: Leila Correia Mascarenhas Barreto</p>
+            <p class="marcador">Telefone: (61) 3030-7902/7616/9004</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:asplen@tse.jus.br">asplen@tse.jus.br</a></p>
+        </div>
+        <a id="ASESP"></a>
+        <div id="estrutura_asesp">
+            <h4 class="topico">Assessoria Especial de Enfrentamento à Desinformação </h4>
+            <p class="marcador">Assessor-Chefe: Frederico Franco Alvim</p>
+            <p class="marcador">Telefone: (61) 3030-7156/7155/7050</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:asesp@tse.jus.br">asesp@tse.jus.br</a></p>
+            <a href="mailto:-"></a>
+            </p>
+        </div>
+        <a id="OUV"></a>
+        <div id="estrutura_avulsa_ouv">
+            <h4 class="topico">Ouvidoria (OUV)</h4>
+            <p class="marcador">Ouvidora: Dra. Simone Trento</p>
+            <p class="marcador">Assessora-Chefe: Eliane Bavaresco Volpato</p>
+            <p class="marcador">Telefone: 3030-7358</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:ouv@tse.jus.br">ouv@tse.jus.br</a></p>
+        </div>
+        <a id="ASPJE"></a>
+        <div id="estrutura_aspje">
+            <h4 class="topico">Assessoria do Processo Judicial Eletrônico (ASPJE)</h4>
+            <p class="marcador">Assessor-Chefe: Bruney Guimarães Brum </p>
+            <p class="marcador">Telefone: (61) 3030-9074</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:aspje@tse.jus.br">aspje@tse.jus.br</a></p>
+        </div>
+        <div class="unidadeSJD">
+            <a id="SJD"></a>
+            <div id="estrutura_sjd">
+                <h4 class="topico">Secretaria Judiciária (SJD)</h4>
+                <p class="marcador">Secretário: Fernando Maciel de Alencastro</p>
+                <p class="marcador">Telefone: (61) 3030-7925</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:sjd@tse.jus.br">sjd@tse.jus.br</a></p>
             </div>
+<div id="estrutura_sjd">
+                <h4 class="topico">Núcleo de Inteligência Artificial e Dados Judiciários</h4>
+                <p class="marcador">Titular: Alexandre Gomes Machado</p>
+                <p class="marcador">Telefone: -</p>
+                <p class="marcador"><em>E-mail</em>: <-</p>
+            </div>
+            <div id="estrutura_coare">
+                <h4 class="topico">Coordenadoria de Acórdãos e Resoluções (COARE)</h4>
+                <p class="marcador">Coordenadora: Andréa Faria da Silva</p>
+                <p class="marcador">Telefone: (61) 3030-7920</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:coare@tse.jus.br">coare@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_semar">
+                <h4 class="topico">Seção de Montagens de Acórdãos e Resoluções (SEMAR)</h4>
+                <p class="marcador">Titular: Janete Barbosa Freitas da Silva</p>
+                <p class="marcador">Telefone: (61) 3030-7886/7883</p>
+                <p class="marcador"><em>E-mails</em>: <a href="mailto:semar@tse.jus.br">semar@tse.jus.br</a>, <a href="mailto:janete.silva@tse.jus.br">janete.silva@tse.jus.br</a>, <a href="mailto:alexandre.costa@tse.jus.br">alexandre.costa@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_spnotas">
+                <h4 class="topico">Seção de Produção de Notas Orais (SPNOTAS)</h4>
+                <p class="marcador">Titular: Frederico Augusto Rodrigues Cordeiro</p>
+                <p class="marcador">Telefone: (61) 3030-7878</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:frederico.cordeiro@tse.jus.br">frederico.cordeiro@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_separ">
+                <h4 class="topico">Seção de Processamento e Publicação de Acórdãos e Resoluções (SEPAR)</h4>
+                <p class="marcador">Titular: Enimar Moreira Cunha</p>
+                <p class="marcador">Telefone: (61) 3030-7912</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:enimar.cunha@tse.jus.br">enimar.cunha@tse.jus.br</a></p>
+            </div>
+
+            <div id="estrutura_cpro">
+                <h4 class="topico">Coordenadoria de Processamento (CPRO)</h4>
+                <p class="marcador">Coordenador: Daniel Vasconcelos Borges Netto</p>
+                <p class="marcador">Telefone: (61) 3030-7800</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:cpro@tse.jus.br">cpro@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seproc1">
+                <h4 class="topico">Seção de Processamento I (SEPROC 1)</h4>
+                <p class="marcador">Titular: Haroldo Cesar de Souza Cruz Rodrigues</p>
+                <p class="marcador">Telefone: (61) 3030-7820</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seproc1@tse.jus.br">seproc1@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seproc2">
+                <h4 class="topico">Seção de Processamento II (SEPROC 2)</h4>
+                <p class="marcador">Titular: Ivete Ferreira Marques</p>
+                <p class="marcador">Telefone: (61) 3030-7812</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seproc2@tse.jus.br">seproc2@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seproc3">
+                <h4 class="topico">Seção de Processamento III (SEPROC 3)</h4>
+                <p class="marcador">Titular: Fernando Maurício Pessoa Ramalho Vianna</p>
+                <p class="marcador">Telefone: (61) 3030-7807</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seproc3@tse.jus.br">seproc3@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_cpadi">
+                <h4 class="topico">Coordenadoria de Registros Partidários, Autuação e Distribuição (CPADI)</h4>
+                <p class="marcador">Coordenador: Henry Cavalcante Lopes</p>
+                <p class="marcador">Telefone: (61) 3030-7846</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:cpadi@tse.jus.br">cpadi@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seadi">
+                <h4 class="topico">Seção de Autuação e Distribuição (SEADI)</h4>
+                <p class="marcador">Titular: Flávia Farias T. Palitot</p>
+                <p class="marcador">Telefone: (61) 3030-7847</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seadi@tse.jus.br">seadi@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_sedap">
+                <h4 class="topico">Seção de Gerenciamento de Dados Partidários (SEDAP)</h4>
+                <p class="marcador">Titular: José Wilton Alves Freire</p>
+                <p class="marcador">Telefone: (61) 3030-7873</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:sedap@tse.jus.br">sedap@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seprom">
+                <h4 class="topico">Seção de Classificação Processual e Montagem (SEPROM)</h4>
+                <p class="marcador">Titular: Ítala Maria Araújo Santos</p>
+                <p class="marcador">Telefone: (61) 3030-7855</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seprom@tse.jus.br">seprom@tse.jus.br</a></p>
+            </div>
+
+        </div>
+    </div>
+    <div class="unidadeSEC">
+        <a id="SEC"></a>
+        <div id="estrutura_sec">
+            <h4 class="topico">Secretaria do Tribunal (SEC)</h4>
+            <p class="marcador">Diretor-Geral: Rui Moreira de Oliveira</p>
+            <p class="marcador">Telefone: (61) 3030-7375</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:gabdg@tse.jus.br">gabdg@tse.jus.br</a></p>
+        </div>
+        <a id="GDG"></a>
+        <div id="estrutura_gabdirgeral">
+            <h4 class="topico">Gabinete do Diretor-Geral (GAB-DG)</h4>
+            <p class="marcador">Assessora-Chefe: Julianna Sant'ana Sesconetto</p>
+            <p class="marcador">Telefone: (61) 3030-7325 / Secretárias: (61) 3030-7371/7372 / Apoio: (61) 3030-7361/7362</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:gabdg@tse.jus.br">gabdg@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_gabdirgeral">
+            <h4 class="topico">Comissão Permanente de Ética e Processo Disciplinar (CPEPD)</h4>
+            <p class="marcador">Presidente: Juely João Ferreira Silva</p>
+            <p class="marcador">Telefone: (61) 3030 7359</p>
+            <p class="marcador"><em>E-mail</em>:
+                <a href="mailto:juely.silva@tse.jus.br">juely.silva@tse.jus.br</a>
+            </p>
+        </div>
+
+        <div id="estrutura_gabdirgeral">
+            <h4 class="topico">Assessoria do Centro Cultural da Justiça Eleitoral (ACCJE)</h4>
+            <p class="marcador">Assessor-Chefe: Anderson Vidal Corrêa</p>
+            <p class="marcador">Telefones: (21) 2263 5844 – Anderson Corrêa / (21) 2263 3258 – Priscila Ferreira / (21) 2263 3266 – Carlos Vianna / (21) 2263 1701 – Joana Pinheiro </p>
+            <p class="marcador"><em>E-mail</em>:
+                <a href="mailto:anderson.correa@tse.jus.br">anderson.correa@tse.jus.br</a>
+            </p>
+        </div>
+        <a id="AESI"></a>
+        <div id="estrutura_gabdirgeral">
+            <h4 class="topico">Assessoria Especial de Segurança e Inteligência (Aesi)</h4>
+            <p class="marcador">Assessor-Chefe: Disney Rosseti</p>
+            <p class="marcador">Telefone: (61) 3030-7180/7146</p>
+            <p class="marcador">Plantão: 3030-9000/9105</p>
+            <p class="marcador">Sala da Brigada: (61) 3030-9090/9091</p>
+            <p class="marcador"><em>E-mail</em>:
+                <a href="mailto:aesi@tse.jus.br">aesi@tse.jus.br</a>
+            </p>
+        </div>
+        <a id="AGEL"></a>
+        <div id="estrutura_agel">
+            <h4 class="topico">Assessoria de Gestão Eleitoral (AGEL)</h4>
+            <p class="marcador">Assessor-Chefe: Thiago Fini Kanashiro</p>
+            <p class="marcador">Telefone: (61) 3030-7352</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:agel@tse.jus.br">agel@tse.jus.br</a></p>
+        </div>
+        <a id="ASJUR"></a>
+        <div id="estrutura_asjur">
+            <h4 class="topico">Assessoria Jurídica (ASJUR)</h4>
+            <p class="marcador">Assessora-Chefe: Mércia Giselle dos Santos Oliveira</p>
+            <p class="marcador">Telefone: (61) 3030-7356</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:asjur@tse.jus.br">asjur@tse.jus.br</a></p>
+        </div>
+        <div class="unidadeSAD">
+            <a id="SAD"></a>
+            <div id="estrutura_sad">
+                <h4 class="topico">Secretaria de Administração (SAD)</h4>
+                <p class="marcador">Secretário: Adaíres Aguiar Lima</p>
+                <p class="marcador">Telefone: (61) 3030-8038</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:secadm@tse.jus.br">secadm@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_compeli">
+                <h4 class="topico">Comissão Permanente de Licitação (CPL)</h4>
+                <p class="marcador">Presidente de Comissão: Nathália dos Santos Costa</p>
+                <p class="marcador">Telefone: (61) 3030-8172/8165/8168</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:cpl@tse.jus.br">cpl@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_codaq">
+                <h4 class="topico">Coordenadoria de Aquisições (CODAQ)</h4>
+                <p class="marcador">Coordenadora: José Rodrigues de Araújo Neto</p>
+                <p class="marcador">Telefone: (61) 3030-8059</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:codaq@tse.jus.br">codaq@tse.jus.br</a></p>
+            </div>
+
+            <div id="estrutura_seare">
+                <h4 class="topico">Seção de Apoio ao Requisitante (SEARE)</h4>
+                <p class="marcador">Titular: Marcelo Trindade de Sousa</p>
+                <p class="marcador">Telefone: (61) 3030-8116</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:apoioaorequisitante@tse.jus.br">apoioaorequisitante@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_secga">
+                <h4 class="topico">Seção de Controle de Custo e Gestão de Ata de Registro de Preços (SECGA)</h4>
+                <p class="marcador">Titular: Rosângela Moreno Cardoso</p>
+                <p class="marcador">Telefone: (61) 3030-8078</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:atas@tse.jus.br">atas@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_secomp">
+                <h4 class="topico">Seção de Compras (SECOMP)</h4>
+                <p class="marcador">Titular: Mari Matsuoka Tomikawa</p>
+                <p class="marcador">Telefone: (61) 3030-8102</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:secomp@tse.jus.br">secomp@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_secont">
+                <h4 class="topico">Seção de Contratos (SECONT)</h4>
+                <p class="marcador">Titular: Flávia Brito dos Santos Ferreira</p>
+                <p class="marcador">Telefone: (61) 3030-8068/8072 (Whatsapp da Seção)</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:secont@tse.jus.br">secont@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seedi">
+                <h4 class="topico">Seção de Editais (SEEDI)</h4>
+                <p class="marcador">Titular: Christina da Cruz Silva</p>
+                <p class="marcador">Telefone: (61) 3030-8109</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seedi@tse.jus.br">seedi@tse.jus.br</a></p>
+            </div>
+
+            <div id="estrutura_cofad">
+                <h4 class="topico">Coordenadoria de Fiscalização Administrativa (COFAD)</h4>
+                <p class="marcador">Coordenadora: Élvia Caribé Vilhena e Sousa </p>
+                <p class="marcador">Telefone:(61) 3030-8200</p>
+
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:cofad@tse.jus.br">cofad@tse.jus.br</a>
+                </p>
+            </div>
+            <div id="estrutura_sefas">
+                <h4 class="topico">Seção de Fiscalização Administrativa I (SEFIS I)</h4>
+                <p class="marcador">Titular: Néria Claudina Alves de Oliveira Borges</p>
+                <p class="marcador">Telefone: (61) 3030-8089</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:sefis1@tse.jus.br">sefis1@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_sefas">
+                <h4 class="topico">Seção de Fiscalização Administrativa II (SEFIS II)</h4>
+                <p class="marcador">Titular: Marize Cruz Cerqueira </p>
+                <p class="marcador">Telefone: (61) 3030-8199</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:sefis2@tse.jus.br">sefis2@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_sefas">
+                <h4 class="topico">Seção de Apuração de Infrações Contratuais (SEAIC)</h4>
+                <p class="marcador">Titular: Janaína dos Santos e Silva Lima</p>
+                <p class="marcador">Telefone: (61) 3030-8032</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:seaic@tse.jus.br">seaic@tse.jus.br</a></p>
+            </div>
+
+
+
+
+
+
+            <div id="estrutura_comap">
+                <h4 class="topico">Coordenadoria de Material, Patrimônio e Logística (COMPL)</h4>
+                <p class="marcador">Coordenador: José Gomes de Almeida Júnior </p>
+                <p class="marcador">Telefone: (61) 3030-8187</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:compl@tse.jus.br">compl@tse.jus.br</a>
+                </p>
+            </div>
+
+            <div id="estrutura_sealm">
+                <h4 class="topico">Seção de Gestão de Almoxarifado (SEALM)</h4>
+                <p class="marcador">Titular: Janaína Ribeiro Penna Pereira Paiva</p>
+                <p class="marcador">Telefone: (61) 3030-8189</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:sealm@tse.jus.br">sealm@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_selmat">
+                <h4 class="topico">Seção de Logística de Materiais (SELMAT)</h4>
+                <p class="marcador">Titular: Sandra Claudia Ribeiro dos Santos </p>
+                <p class="marcador">Telefone: (61) 3030-8178</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:selmat@tse.jus.br">selmat@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_sepat">
+                <h4 class="topico">Seção de Gestão de Patrimônio (SEPAT)</h4>
+                <p class="marcador">Titular: Daniela Andrade Santiago</p>
+                <p class="marcador">Telefone: (61) 3030-8179</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:sepat@tse.jus.br">sepat@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_setran">
+                <h4 class="topico">Seção de Transporte (SETRAN)</h4>
+                <p class="marcador">Titular: Eduardo Luiz Lopes Andrade</p>
+                <p class="marcador">Telefone: (61) 3030-7178</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:setran@tse.jus.br">setran@tse.jus.br</a></p>
+            </div>
+
+
+
+
+            <div id="estrutura_comap">
+                <h4 class="topico">Coordenadoria de Serviços, Engenharia e Arquitetura (COSEN)</h4>
+                <p class="marcador">Coordenador: Ivaldo Pinto de Oliveira Júnior</p>
+                <p class="marcador">Telefone: (61) 3030-8225</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:cosen@tse.jus.br">cosen@tse.jus.br</a></p>
+            </div>
+
+            <div id="estrutura_senge">
+                <h4 class="topico">Seção de Engenharia, Arquitetura e Projetos (SENAP)</h4>
+                <p class="marcador">Titular: Ana Lúcia Lopes Zeredo</p>
+                <p class="marcador">Telefone: (61) 3030-8246</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:senap@tse.jus.br">senap@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_senge">
+                <h4 class="topico">Seção de Equipamentos e Sistemas de Engenharia (SESEN)</h4>
+                <p class="marcador">Titular: Jair Altino de Carvalho Júnior </p>
+                <p class="marcador">Telefone: (61) 3030-8231</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:sesen@tse.jus.br">sesen@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_senge">
+                <h4 class="topico">Seção de Gestão de Serviços Gerais e Técnicos (SEGET)</h4>
+                <p class="marcador">Titular: Maria Angélica Ramiro Silva Pieroni</p>
+                <p class="marcador">Telefone: (61) 3030-8244/8201/8202</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:senge@tse.jus.br">senge@tse.jus.br</a></p>
+            </div>
+
+
+        </div>
+        <div class="unidadeSDA">
+            <a id="SDAU"></a>
+            <div id="estrutura_sad">
+                <h4 class="topico">Secretaria de Auditoria (SAU)</h4>
+                <p class="marcador">Secretário: -</p>
+                <p class="marcador">Telefone: (61) 3030-7307</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:auditoria@tse.jus.br">auditoria@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_sad">
+                <h4 class="topico">Coordenadoria de Auditoria (COAUD)</h4>
+                <p class="marcador">Coordenadora: Érika de Oliveira dos Santos Scozziero </p>
+                <p class="marcador">Telefone: (61) 3030-7305</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:coaud@tse.jus.br">coaud@tse.jus.br</a>
+                </p>
+            </div>
+            <div id="estrutura_seaud">
+                <h4 class="topico">Seção de Auditoria de Desempenho (SEAUD)</h4>
+                <p class="marcador">Titular: Evandro da Cunha Menezes</p>
+                <p class="marcador">Telefone: (61) 3030-7309</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seaud@tse.jus.br">seaud@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seaug">
+                <h4 class="topico">Seção de Auditoria de Gestão (SEAUG)</h4>
+                <p class="marcador">Titular: Humberto Garcia Cardoso</p>
+                <p class="marcador">Telefone: (61) 3030-7311</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seaug@tse.jus.br">seaug@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seaup">
+                <h4 class="topico">Seção de Auditoria de Pessoal (SEAUP)</h4>
+                <p class="marcador">Titular: Sílvia Caldas Ferreira</p>
+                <p class="marcador">Telefone: (61) 3030-7265</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seaup@tse.jus.br">seaup@tse.jus.br</a></p>
+            </div>
+
+
+            <div id="estrutura_sad">
+                <h4 class="topico">Coordenadoria de Auditoria de Governança e Gestão de Aquisições (COAUG)</h4>
+                <p class="marcador">Secretário: Carlos Ramon da Silva Santos</p>
+                <p class="marcador">Telefone: (61) 3030-7269</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:coaug@tse.jus.br">coaug@tse.jus.br</a>
+                </p>
+            </div>
+
+            <div id="estrutura_seaut">
+                <h4 class="topico">Seção de Auditoria de Tecnologia da Informação (SEAUT)</h4>
+                <p class="marcador">Titular: Dênis Paiva Carvalho</p>
+                <p class="marcador">Telefone: (61) 3030-7262</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:seaut@tse.jus.br">seaut@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_sad">
+                <h4 class="topico">Seção de Auditoria de Contratos e Convênios (SEACO)</h4>
+                <p class="marcador">Titular: Daniel Adjafre da Costa Matos </p>
+                <p class="marcador">Telefone: (61) 3030-7261</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:seaco@tse.jus.br">seaco@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_sad">
+                <h4 class="topico">Seção de Auditoria de Aquisições (SEAAQ)</h4>
+                <p class="marcador">Titular: Danilo Rodrigues Nunes</p>
+                <p class="marcador">Telefone: (61) 3030-7261</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:seaaq@tse.jus.br">seaaq@tse.jus.br</a></p>
+            </div>
+
+        </div>
+
+        <div class="unidadeSGI">
+            <a id="SGI"></a>
+            <div id="estrutura_sgi">
+                <h4 class="topico">Secretaria de Gestão da Informação (SGI)</h4>
+                <p class="marcador">Secretário: Cleber Schumann</p>
+                <p class="marcador">Telefone: (61) 3030-9225</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:sgi@tse.jus.br">sgi@tse.jus.br</a></p>
+            </div>
+            
+
+            <div id="estrutura_cedip">
+                <h4 class="topico">Coordenadoria de Editoração e Publicações (CEDIP)</h4>
+                <p class="marcador">Coordenador: Washington Luiz de Oliveira</p>
+                <p class="marcador">Telefone: (61) 3030-9323</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:cedip@tse.jus.br">cedip@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seprov">
+                <h4 class="topico">Seção de Editoração e Programação Visual (SEPROV)</h4>
+                <p class="marcador">Titular: Paulo Renato Thummerer Nicolini</p>
+                <p class="marcador">Telefone: (61) 3030-9181</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seprov@tse.jus.br">seprov@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seprev">
+                <h4 class="topico">Seção de Preparação e Revisão de Conteúdos (SEPREV)</h4>
+                <p class="marcador">Titular: Tatiana Viana Fraga</p>
+                <p class="marcador">Telefone: (61) 3030-9175</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seprev@tse.jus.br">seprev@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_segraf">
+                <h4 class="topico">Seção de Serviços Gráficos (SEGRAF)</h4>
+                <p class="marcador">Titular: Camila Melo Oliveira</p>
+                <p class="marcador">Telefone: (61) 3030-9161</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:segraf@tse.jus.br">segraf@tse.jus.br</a></p>
+            </div>
+
+            <div id="estrutura_coged">
+                <h4 class="topico">Coordenadoria de Gestão Documental (COGED)</h4>
+                <p class="marcador">Coordenador: Yan Amaral Engelke</p>
+                <p class="marcador">Telefone: (61) 3030-9250</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:coged@tse.jus.br">coged@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_searq">
+                <h4 class="topico">Seção de Arquivo (SEARQ)</h4>
+                <p class="marcador">Titular: Júlio César Sousa Gomes</p>
+                <p class="marcador">Telefone: (61) 3030-9117</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:arquivo@tse.jus.br">arquivo@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_segedoc">
+                <h4 class="topico">Seção de Gestão de Documentos Eletrônicos (SEGEDOC)</h4>
+                <p class="marcador">Titular: Christiano José Schroder Barbalho de Oliveira</p>
+                <p class="marcador">Telefone: (61) 3030-9272</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:segedoc@tse.jus.br">segedoc@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seprot">
+                <h4 class="topico">Seção de Protocolo Administrativo e Expedição (SEPROT)</h4>
+                <p class="marcador">Titular: Diana de Carvalho L. de Araújo Palhano</p>
+                <p class="marcador">Telefone: (61) 3030-9290</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:protocolo@tse.jus.br">protocolo@tse.jus.br</a></p>
+            </div>
+
+            <div id="estrutura_cojur">
+                <h4 class="topico">Coordenadoria de Jurisprudência, Biblioteca, Legislação e Museu</h4>
+                <p class="marcador">Coordenadora: Cláudia Gontijo Corrêa Cahú</p>
+                <p class="marcador">Telefone: (61) 3030-9229</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:gabcojur@tse.jus.br">gabcojur@tse.jus.br</a></p>
+            </div>
+
+            <div id="estrutura_seajur">
+                <h4 class="topico">Seção de Conteúdos de Jurisprudência (Secjur)</h4>
+                <p class="marcador">Titular: Idenir Santos de Oliveira</p>
+                <p class="marcador">Telefone: (61) 3030-9246</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:jurisprudencia@tse.jus.br">jurisprudencia@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seleg">
+                <h4 class="topico">Seção de Legislação (SELEG)</h4>
+                <p class="marcador">Titular: Diego Messina Felisbino</p>
+                <p class="marcador">Telefone: (61) 3030-9232</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seleg@tse.jus.br">seleg@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_sepjur">
+                <h4 class="topico">Seção de Divulgação de Jurisprudência (Sedjur)</h4>
+                <p class="marcador">Titular: Leonardo Augusto Soares Del Menezzi</p>
+                <p class="marcador">Telefone: (61) 3030-9257</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:jurisprudencia@tse.jus.br">jurisprudencia@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_sedjur">
+                <h4 class="topico">Seção de Gestão de Dados de Jurisprudência (Segjur)</h4>
+                <p class="marcador">Titular: Gustavo Minucci de Moura Leite</p>
+                <p class="marcador">Telefone: (61) 3030-9236</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:jurisprudencia@tse.jus.br">jurisprudencia@tse.jus.br</a></p>
+            </div>
+
+ <div id="estrutura_sebbl">
+                <h4 class="topico">Seção de Biblioteca (SEBBL)</h4>
+                <p class="marcador">Titular: Lígia Cavalcante Ponte</p>
+                <p class="marcador">Telefone: (61) 3030-9296</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:biblioteca@tse.jus.br">biblioteca@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_sebbd">
+                <h4 class="topico">Seção de Biblioteca Digital (SEBBD)</h4>
+                <p class="marcador">Titular: Geraldo Campetti Sobrinho</p>
+                <p class="marcador">Telefone: (61) 3030-9286 </p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:sebbd@tse.jus.br">sebbd@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_semus">
+                <h4 class="topico">Seção de Museu (SEMUS)</h4>
+                <p class="marcador">Titular: Admilson Siqueira e Silva Júnior</p>
+                <p class="marcador">Telefone: (61) 3030-9291</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:museu@tse.jus.br">museu@tse.jus.br</a></p>
+            </div>
+
+        </div>
+        <div class="unidadeSGP">
+            <a id="SGP"></a>
+            <div id="estrutura_sgp">
+                <h4 class="topico">Secretaria de Gestão de Pessoas (SGP)</h4>
+                <p class="marcador">Secretária: Ana Cláudia Braga Mendonça</p>
+                <p class="marcador">Telefone: (61) 3030-8287</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:sgp@tse.jus.br">sgp@tse.jus.br</a></p>
+            </div>
+
+<div id="estrutura_cats">
+                <h4 class="topico">Núcleo de Apoio à Gestão de Pessoas</h4>
+                <p class="marcador">Titular: Anne Jacqueline Soares de Sales</p>
+                <p class="marcador">Telefone: -</p>
+                <p class="marcador"><em>E-mail</em>: -</p>
+            </div>
+
+            <div id="estrutura_cats">
+                <h4 class="topico">Coordenadoria de Atenção à Saúde (CATS)</h4>
+                <p class="marcador">Coordenadora: Dea Márcia da Silva Pereira</p>
+                <p class="marcador">Telefone: (61) 3030-8414</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:cats@tse.jus.br">cats@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seadm">
+                <h4 class="topico">Seção de Apoio Administrativo (SEADM)</h4>
+                <p class="marcador">Titular: Raphael Barbosa Castro</p>
+                <p class="marcador">Telefone: (61) 3030-8489</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:atestados@tse.jus.br">atestados@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seame">
+                <h4 class="topico">Seção de Atenção Médica e de Enfermagem (SEAME)</h4>
+                <p class="marcador">Titular: Paulo Ricardo de Fernando Rocha</p>
+                <p class="marcador">Telefone: (61) 3030-8488</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seame@tse.jus.br">seame@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seato">
+                <h4 class="topico">Seção de Atenção Odontológica (SEATO)</h4>
+                <p class="marcador">Titular: Denise Poubel Vilar</p>
+                <p class="marcador">Telefone: (61) 3030-8506/8507</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seato@tse.jus.br">seato@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seasp">
+                <h4 class="topico">Seção de Atenção Social e Psicológica (SEASP)</h4>
+                <p class="marcador">Titular: Oracélia Rosa Sichera</p>
+                <p class="marcador">Telefone: (61) 3030-8501/8512</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seasp@tse.jus.br">seasp@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seaf">
+                <h4 class="topico">Seção de Atenção Fisioterapêutica (SEAF)</h4>
+                <p class="marcador">Titular: Raquel Rodrigues Gontijo</p>
+                <p class="marcador">Telefone: (61) 3030-8558</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seaf@tse.jus.br">seaf@tse.jus.br</a></p>
+            </div>
+
+
+
+            <div id="estrutura_coede">
+                <h4 class="topico">Coordenadoria de Educação e Desenvolvimento (COEDE)</h4>
+                <p class="marcador">Coordenadora: Ana Claudia Chagas Estelita Lins</p>
+                <p class="marcador">Telefone: (61) 3030-8352</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:coede@tse.jus.br">coede@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_sedes">
+                <h4 class="topico">Seção de Desenvolvimento Organizacional (SEDES)</h4>
+                <p class="marcador">Titular: Giselle Auxiliadora Borges Viegas</p>
+                <p class="marcador">Telefone:(61) 3030-8379/8371</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:sedes@tse.jus.br">sedes@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_sedes">
+                <h4 class="topico">Seção de Tecnologias Educacionais (SETED)</h4>
+                <p class="marcador">Titular: Mônica de Jesus Simões</p>
+                <p class="marcador">Telefone: (61) 3030-7935</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:ead@tse.jus.br">ead@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seduc">
+                <h4 class="topico">Seção de Educação Corporativa (SEDUC)</h4>
+                <p class="marcador">Titular: Marcelo Morais de Souza</p>
+                <p class="marcador">Telefone: (61) 3030-8360</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:educacao@tse.jus.br">educacao@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seeve">
+                <h4 class="topico">Seção de Eventos e Cidadania Corporativa</h4>
+                <p class="marcador">Titular: Marlon Van Juen Sun</p>
+                <p class="marcador">Telefone: (61) 3030-8573</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:eventos@tse.jus.br">eventos@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seged">
+                <h4 class="topico">Seção de Lotação e Gestão de Desempenho (SEGED)</h4>
+                <p class="marcador">Titular: Paula Christina Batista dos Santos</p>
+                <p class="marcador">Telefone: (61) 3030-8357</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seged@tse.jus.br">seged@tse.jus.br</a></p>
+            </div>
+
+
+
+            <div id="estrutura_copes">
+                <h4 class="topico">Coordenadoria de Pessoal (COPES)</h4>
+                <p class="marcador">Coordenador: Zélia Oliveira de Miranda</p>
+                <p class="marcador">Telefone: (61) 3030-8300</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:copes@tse.jus.br">copes@tse.jus.br</a></p>
+            </div>
+
+            <div id="estrutura_seben">
+                <h4 class="topico">Seção de Benefícios (SEBEN)</h4>
+                <p class="marcador">Titular: Raquel Ribeiro Teles</p>
+                <p class="marcador">Telefone: (61) 3030-8347</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seben@tse.jus.br">seben@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_sepag">
+                <h4 class="topico">Seção de Pagamentos (SEPAG)</h4>
+                <p class="marcador">Titular: Erika Tavares Gonçalves Vidal Corrêa</p>
+                <p class="marcador">Telefone: (61) 3030-8320</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:sepag@tse.jus.br">sepag@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seref">
+                <h4 class="topico">Seção de Registros Funcionais (SEREF)</h4>
+                <p class="marcador">Titular: Juliana Greimel Bernardes</p>
+                <p class="marcador">Telefone: (61) 3030-8308</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seref@tse.jus.br">seref@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_seref">
+                <h4 class="topico">Seção de Gestão da Frequência (SEGEF)</h4>
+                <p class="marcador">Titular: Santuzza de Almeida Castro Kammoun</p>
+                <p class="marcador">Telefone: 3030-8310 (Whatsapp da Seção)</p>
+                <p class="marcador"><em>E-mail</em>:
+                    <a href="mailto:segef@tse.jus.br">segef@tse.jus.br</a></p>
+            </div>
+
+
+            <div id="estrutura_cotejur">
+                <h4 class="topico">Coordenadoria Técnica (COTEC)</h4>
+                <p class="marcador">Coordenador: Rodrigo Emanuel Couto</p>
+                <p class="marcador">Telefone: (61) 3030-8290</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:cotec@tse.jus.br">cotec@tse.jus.br</a></p>
+            </div>
+
+            <div id="estrutura_seatec">
+                <h4 class="topico">Seção de Análise Técnico-Processual (SEATEC)</h4>
+                <p class="marcador">Titular: Pedro Biagi da Silva</p>
+                <p class="marcador">Telefone: (61) 3030-8343/8292</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:seatec@tse.jus.br">seatec@tse.jus.br</a></p>
+            </div>
+            <div id="estrutura_sedid">
+                <h4 class="topico">Seção de Direitos e Deveres (SEDID)</h4>
+                <p class="marcador">Titular: Simone Coelho Pereira Matsunaga</p>
+                <p class="marcador">Telefone: (61) 3030-8333/8291</p>
+                <p class="marcador"><em>E-mail</em>: <a href="mailto:sedid@tse.jus.br">sedid@tse.jus.br</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="unidadeSMGES">
+        <a id="SPSMG"></a>
+        <div id="estrutura_sgp">
+            <h4 class="topico">Secretaria de Modernização, Gestão Estratégica e Socioambiental (SMG)</h4>
+            <p class="marcador">Secretário: Bruno Cezar Andrade de Souza </p>
+            <p class="marcador">Telefone: (61) 3030-7176</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:smg@tse.jus.br">smg@tse.jus.br</a>
+
+            </p>
+        </div>
+
+        <div id="estrutura_sgp">
+            <h4 class="topico">Coordenadoria de Gestão Estratégica e Socioambiental (COGESO)</h4>
+            <p class="marcador">Coordenador: Daniel Carlos Lima Corrêa</p>
+            <p class="marcador">Telefone: (61) 3030-7424</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:cogeso@tse.jus.br">cogeso@tse.jus.br</a>
+
+            </p>
+        </div>
+
+              
+        <div id="estrutura_sgp">
+            <h4 class="topico">Seção de Gestão Estratégica e Governança (SEGGO)</h4>
+            <p class="marcador">Titular: Ladjane Souza de Arruda</p>
+            <p class="marcador">Telefone: (61) 3030-7301</p>
+            <p class="marcador"><em>E-mail</em>:
+                <a href="mailto:seggo@tse.jus.br">seggo@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sgp">
+            <h4 class="topico">Seção de Gestão Socioambiental (SEGESA)</h4>
+            <p class="marcador">Titular: Diogo do Ybiti Lopes Silveira</p>
+            <p class="marcador">Telefone: (61) 3030-7194</p>
+            <p class="marcador"><em>E-mail</em>:
+                <a href="mailto:socioambiental@tse.jus.br">socioambiental@tse.jus.br</a></p>
+        </div>
+
+    </div>
+<div id="estrutura_sgp">
+            <h4 class="topico">Coordenadoria de Modernização</h4>
+            <p class="marcador">Coordenador: Célio Castro Wermelinger</p>
+            <p class="marcador">Telefone: (61) 3030-7424</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:comor@tse.jus">comor@tse.jus</a>
+
+            </p>
+        </div>
+<div id="estrutura_sgp">
+            <h4 class="topico">Seção de Modernização de Serviços ao Eleitor (SEMOSE)</h4>
+            <p class="marcador">Titular: Venância Medina Lopes </p>
+            <p class="marcador">Telefone: (61) 3030-7350</p>
+            <p class="marcador"><em>E-mail</em>:
+                <a href="mailto:semose@tse.jus.br">semose@tse.jus.br</a></p>
+        </div>
+ <div id="estrutura_sgp">
+            <h4 class="topico">Seção de Dados Estratégicos Gerenciais (SEDEG)</h4>
+            <p class="marcador">Titular: Leonardo Ferreira de Oliveira</p>
+            <p class="marcador">Telefone: (61) 3030-7133</p>
+            <p class="marcador"><em>E-mail</em>:
+                <a href="mailto:sedeg@tse.jus.br">sedeg@tse.jus.br</a></p>
+        </div>
+
+    <div class="unidadeSOF">
+        <a id="SPOFC"></a>
+        <div id="estrutura_sof">
+            <h4 class="topico">Secretaria de Planejamento, Orçamento, Finanças e Contabilidade (SOF)</h4>
+            <p class="marcador">Secretário: Eduardo Demetrio Bechara</p>
+            <p class="marcador">Telefone: (61) 3030-7630</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:sof@tse.jus.br">sof@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_ceofi">
+            <h4 class="topico">Coordenadoria de Execução Orçamentária e Financeira (CEOFI)</h4>
+            <p class="marcador">Coordenadora: Jean Carla Rodrigues Carvalho</p>
+            <p class="marcador">Telefone: (61) 3030-8141</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:ceofi@tse.jus.br">ceofi@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_seapre">
+            <h4 class="topico">Seção de Acompanhamento e Processamento de Restos a Pagar (SEAPRE)</h4>
+            <p class="marcador">Titular: Daniela Alves G. de Carvalho</p>
+            <p class="marcador">Telefone: (61) 3030-8151/8160</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:seapre@tse.jus.br">seapre@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_seat">
+            <h4 class="topico">Seção de Análise Técnica (SEAT)</h4>
+            <p class="marcador">Titular: Mauro José Silva Amorim</p>
+            <p class="marcador">Telefone: (61) 3030-8152</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:seat@tse.jus.br">seat@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sefin">
+            <h4 class="topico">Seção de Execução Financeira (SEFIN)</h4>
+            <p class="marcador">Titular: Irinaldo Portuguez da Cunha</p>
+            <p class="marcador">Telefone: (61) 3030-8146</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:sefin@tse.jus.br">sefin@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_seor">
+            <h4 class="topico">Seção de Execução Orçamentária (SEOR)</h4>
+            <p class="marcador">Titular: Paulo César Vieira de Lima</p>
+            <p class="marcador">Telefone: (61) 3030-8135</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:seor@tse.jus.br">seor@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sepcd">
+            <h4 class="topico">Seção de Seção de Prestação de Contas e Conformidade Documental (SEPCD)</h4>
+            <p class="marcador">Titular: José Antônio Vale da Silva</p>
+            <p class="marcador">Telefone: (61) 3030-8127</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:sepcd@tse.jus.br">sepcd@tse.jus.br</a></p>
+        </div>
+
+        <div id="estrutura_cofic">
+            <h4 class="topico">Coordenadoria de Finanças e Contabilidade (COFIC)</h4>
+            <p class="marcador">Coordenadora: Juthy Maria Campos Rodrigues Pereira</p>
+            <p class="marcador">Telefone: (61) 3030-7684</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:cofic@tse.jus.br">cofic@tse.jus.br</a></p>
+        </div>
+
+        <div id="estrutura_seafin">
+            <h4 class="topico">Seção de Administração Financeira (SEAFIN)</h4>
+            <p class="marcador">Titular: Sérgio Aparecido de Oliveira</p>
+            <p class="marcador">Telefone: (61) 3030-7665</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:seafin@tse.jus.br">seafin@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_seconta">
+            <h4 class="topico">Seção de Contabilidade Analítica (SECONTA)</h4>
+            <p class="marcador">Titular: Lucinei de Oliveira Pereira</p>
+            <p class="marcador">Telefone: (61) 3030-7675</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:seconta@tse.jus.br">seconta@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_seconge">
+            <h4 class="topico">Seção de Contabilidade Gerencial (SECONGE)</h4>
+            <p class="marcador">Titular: Anderson Passos Zica</p>
+            <p class="marcador">Telefone: (61) 3030-7716</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:seconge@tse.jus.br">seconge@tse.jus.br</a></p>
+        </div>
+
+        <div id="estrutura_codec">
+            <h4 class="topico">Coordenadoria de Orçamento de Despesas Obrigatórias e Custos (CODEC)</h4>
+            <p class="marcador">Coordenadora: Renata Mansur Japur</p>
+            <p class="marcador">Telefone: (61) 3030-7637</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:codec@tse.jus.br">codec@tse.jus.br</a></p>
+        </div>
+
+        <div id="estrutura_sedaf">
+            <h4 class="topico">Seção de Análise de Dados Físicos das Despesas Obrigatórias (SEDAF)</h4>
+            <p class="marcador">Titular: Magda Maria dos Santos</p>
+            <p class="marcador">Telefone: </p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:sedaf@tse.jus.br">sedaf@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_segec">
+            <h4 class="topico">Seção de Gerenciamento de Custos (SEGEC)</h4>
+            <p class="marcador">Titular: Marcelo Prates Grangeiro</p>
+            <p class="marcador">Telefone: (61) 3030-7654</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:segec@tse.jus.br">segec@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sedob">
+            <h4 class="topico">Seção de Orçamento de Despesas Obrigatórias (SEDOB)</h4>
+            <p class="marcador">Titular: Janaina Maria Braga Ferreira</p>
+            <p class="marcador">Telefone: (61) 3030-7638</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:sedob@tse.jus.br">sedob@tse.jus.br</a></p>
+        </div>
+
+        <div id="estrutura_copor">
+            <h4 class="topico">Coordenadoria de Planejamento e Orçamento (COPOR)</h4>
+            <p class="marcador">Coordenador: Aloísio Mayworm Pereira Júnior</p>
+            <p class="marcador">Telefone: (61) 3030-7627</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:copor@tse.jus.br">copor@tse.jus.br</a></p>
+        </div>
+
+        <div id="estrutura_segeor">
+            <h4 class="topico">Seção de Gerenciamento Orçamentário (SEGEOR)</h4>
+            <p class="marcador">Titular: Carlos André Pereira da Silva</p>
+            <p class="marcador">Telefone: (61) 3030-7653</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:segeor@tse.jus.br">segeor@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_senor">
+            <h4 class="topico">Seção de Normas Orçamentárias (SENOR)</h4>
+            <p class="marcador">Titular: Raquel Fernandes Carlos</p>
+            <p class="marcador">Telefone: (61) 3030-7677</p>
+            <p class="marcador"><em>E-mail</em>:
+                <a href="mailto:senor@tse.jus.br">senor@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_seplan">
+            <h4 class="topico">Seção de Planejamento (SEPLAN)</h4>
+            <p class="marcador">Titular: Elaine Marinho Coelho</p>
+            <p class="marcador">Telefone: (61) 3030-7646</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:seplan@tse.jus.br">seplan@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sepor">
+            <h4 class="topico">Seção de Programação Orçamentária (SEPOR)</h4>
+            <p class="marcador">Titular: Andréa Marques Pôrto</p>
+            <p class="marcador">Telefone: (61) 3030-7661</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:sepor@tse.jus.br">sepor@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sepor">
+            <h4 class="topico">Seção de Gestão Orçamentária (SEGES)</h4>
+            <p class="marcador">Titular: Nara Fontoura Portuguez</p>
+            <p class="marcador">Telefone: (61) 3030-8046</p>
+            <p class="marcador"><em>E-mail</em>:
+                <a href="seges@tse.jus.br">seges@tse.jus.br</a></p>
+        </div>
+    </div>
+
+
+    <div class="unidadeSTI">
+        <a id="STI"></a>
+        <div id="estrutura_sti">
+            <h4 class="topico">Secretaria de Tecnologia da Informação (STI)</h4>
+            <p class="marcador">Secretário: Julio Valente da Costa Junior</p>
+            <p class="marcador">Telefone: (61) 3030-8882</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:julio.valente@tse.jus.br">julio.valente@tse.jus.br</a></p>
+        </div>
+
+<div id="estrutura_cogti">
+            <h4 class="topico">Assessoria de Gestão do Conhecimento e Modernização de TI</h4>
+            <p class="marcador">Assessor: -</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+        <div id="estrutura_seai">
+            <h4 class="topico">Núcleo Estratégico de Gestão de Segurança Cibernética</h4>
+            <p class="marcador">Titular: Carlos Eduardo Miranda Zottmann</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+        <div id="estrutura_segbio">
+            <h4 class="topico">Núcleo Estratégico de Gestão de Portifólio e Compliance</h4>
+            <p class="marcador">Titular: Eduardo Fleury Nogueira</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+        <div id="estrutura_seproj">
+            <h4 class="topico">Núcleo Estratégico de Comunicação de Informática</h4>
+            <p class="marcador">Titular: Marcelo Lauriano Lúcio</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+
+        <div id="estrutura_cogti">
+            <h4 class="topico">Coordenadoria de Arquitetura, Identificação e Inovação</h4>
+            <p class="marcador">Coordenador: -</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+        <div id="estrutura_seai">
+            <h4 class="topico">Seção de Arquitetura da Informação (SEAI)</h4>
+            <p class="marcador">Titular: Jonas Pereira da Silva Júnior</p>
+            <p class="marcador">Telefone: (61) 3030-8932</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:seai@tse.jus.br">seai@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_segbio">
+            <h4 class="topico">Seção de Ciência de Dados</h4>
+            <p class="marcador">Titular: -</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+        <div id="estrutura_seproj">
+            <h4 class="topico">Seção de Identificação Biométrica</h4>
+            <p class="marcador">Titular: -</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+        <div id="estrutura_sescon">
+            <h4 class="topico">Seção de Soluções em Aplicativos Móveis</h4>
+            <p class="marcador">Titular: Francisco Lopes de Farias</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>:  -</p>
+        </div>
+        <div id="estrutura_sipt">
+            <h4 class="topico">Seção de Inovação e Apoio à Produção de Software (SINAPS)</h4>
+            <p class="marcador">Titular: André Luís Vidigal Soares de Andrade</p>
+            <p class="marcador">Telefone: 3030-8818</p>
+            <p class="marcador"><em>E-mail</em>:
+                <a href="mailto:sinaps.tse@tse.jus.br">sinaps.tse@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sescon">
+            <h4 class="topico">Seção de  Serviços de TI e Service Desk</h4>
+            <p class="marcador">Titular: Sílvia Alves Guimarães</p>
+            <p class="marcador">Telefone: (61) 3030-8635</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:sescon@tse.jus.br">sescon@tse.jus.br</a></p>
+        </div>
+
+
+        <div id="estrutura_coinf">
+            <h4 class="topico">Coordenadoria de Infraestrutura de TI (COINF)</h4>
+            <p class="marcador">Coordenador: Cristiano Moreira Andrade</p>
+            <p class="marcador">Telefone: (61) 3030-8970</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:coinf@tse.jus.br">coinf@tse.jus.br</a></p>
+        </div>
+<div id="estrutura_coinf">
+            <h4 class="topico">Núcleo de Apoio Técnico às Contratações de Infraestrutura</h4>
+            <p class="marcador">Titular: Evelaine Antônio Trindade</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+
+        <div id="estrutura_seau">
+            <h4 class="topico">Seção de Apoio ao Usuário (SEAU)</h4>
+            <p class="marcador">Titular: Luciano Teixeira Andrade</p>
+            <p class="marcador">Telefone: (61) 3030-8736</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:seau@tse.jus.br">seau@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sebd">
+            <h4 class="topico">Seção de Defesa Cibernética</h4>
+            <p class="marcador">Titular: Marcelo Carneiro Rodrigues</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:sebd@tse.jus.br">sebd@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sepd">
+            <h4 class="topico">Seção de Suporte a Aplicações (SEPD)</h4>
+            <p class="marcador">Titular: -</p>
+            <p class="marcador">Telefone: (61) 3030-8625</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:sepd@tse.jus.br">sepd@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_semop">
+            <h4 class="topico">Seção de Monitoramento e Produção (SEMOP)</h4>
+            <p class="marcador">Titular: Humberto de Melo Falcão Neto</p>
+            <p class="marcador">Telefone: (61) 3030-9058</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:semop@tse.jus.br">semop@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sesap">
+            <h4 class="topico">Seção de Pesquisa e Sustentação de Banco de Dados</h4>
+            <p class="marcador">Titular: Ivanildo Ferreira Gomes</p>
+            <p class="marcador">Telefone: (61) 3030-8992/8993/8990/8991/8997/8996/8989/8987</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:sesap@tse.jus.br">sesap@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sesop">
+            <h4 class="topico">Seção de Suporte Operacional (SESOP)</h4>
+            <p class="marcador">Titular: Alexandre de Jesus Paschoal</p>
+            <p class="marcador">Telefone: (61) 3030-8971</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:sesop@tse.jus.br">sesop@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_csele">
+            <h4 class="topico">Coordenadoria de Sistemas Eleitorais (CSELE)</h4>
+            <p class="marcador">Coordenador: José de Melo Cruz</p>
+            <p class="marcador">Telefone: (61) 3030-8850</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:csele@tse.jus.br">csele@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_secon">
+            <h4 class="topico">Seção de Integração, Garantia e Controle de Qualidade de Soluções</h4>
+            <p class="marcador">Titular: -</p>
+            <p class="marcador">Telefone: (61) 3030-8795</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+        <div id="estrutura_secad">
+            <h4 class="topico">Seção de Cadastro de Eleitor (SECAD)</h4>
+            <p class="marcador">Titular: Fernando Garcia de Medeiros Júnior</p>
+            <p class="marcador">Telefone: (61) 3030-8861</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:secad@tse.jus.br">secad@tse.jus.br</a> - <strong>Para atendimento ao eleitor, entrar em contato por meio da <a href="https://www.tse.jus.br/eleitor/servicos/ouvidoria/formulario-da-assessoria-de-informacao-ao-cidadao">Ouvidoria</a></strong></p>
+        </div>
+        <div id="estrutura_secinp">
+            <h4 class="topico">Seção de Candidaturas e Informações Partidárias (SECINP)</h4>
+            <p class="marcador">Titular: Wellington Galdino Evangelista</p>
+            <p class="marcador">Telefone: (61) 3030-8723</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:secinp@tse.jus.br">secinp@tse.jus.br</a></p>
+        </div>
+        
+        <div id="estrutura_setot">
+            <h4 class="topico">Seção de Totalização e Divulgação de Resultados (SETOT)</h4>
+            <p class="marcador">Titular: Alberto Araújo Cavalcante Neto</p>
+            <p class="marcador">Telefone: (61) 3030-8741</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:alberto.cavalcante@tse.jus.br">alberto.cavalcante@tse.jus.br</a>/<a href="mailto:setot@tse.jus.br">setot@tse.jus.br</a></p>
+        </div>
+                
+
+        <div id="estrutura_cotel">
+            <h4 class="topico">Coordenadoria de Tecnologia Eleitoral (COTEL)</h4>
+            <p class="marcador">Coordenador: Rafael Fernandes de Barros Costa Azevedo</p>
+            <p class="marcador">Telefone: (61) 3030-8894</p>
+            <p class="marcador"><em>E-mail</em>: <a href="mailto:gabcotel@tse.jus.br">gabcotel@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_seue">
+            <h4 class="topico">Seção de Gestão Integrada de Tecnologia Eleitoral </h4>
+            <p class="marcador">Titular: -</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+        <div id="estrutura_sipt">
+            <h4 class="topico">Seção de Gestão de Certificação Digital</h4>
+            <p class="marcador">Titular: Francisco Dejardene Moura da Silva</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+        <div id="estrutura_sipt">
+            <h4 class="topico">Seção de Voto Informatizado</h4>
+            <p class="marcador">Titular: -</p>
+            <p class="marcador">Telefone: (61) 3030-8951</p>
+            <p class="marcador"><em>E-mail</em>:
+                <a href="mailto:segele@tse.jus.br">segele@tse.jus.br</a></p>
+        </div>
+        <div id="estrutura_sipt">
+            <h4 class="topico">Seção de Gestão das Urnas Eletrônicas</h4>
+            <p class="marcador">Titular: -</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>:
+                -</p>
+        </div>
+<div id="estrutura_sevin">
+            <h4 class="topico">Seção de Tecnologia de Urnas Eletrônicas</h4>
+            <p class="marcador">Titular: -</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+<div id="estrutura_cotel">
+            <h4 class="topico">Coordenadoria de  Soluções Processuais e Partidárias</h4>
+            <p class="marcador">Coordenadora: Ana Karinne Siqueira de Andrade dos Santos</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+        <div id="estrutura_seue">
+            <h4 class="topico">Núcleo de Apoio Técnico às Integrações com o Processo Judicial Eletrônico</h4>
+            <p class="marcador">Titular: Fábio Aragão Dourado </p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+        <div id="estrutura_sipt">
+            <h4 class="topico">Seção de Automação à Jurisprudência, Procedimentos Administrativos e Comunicações Processuais</h4>
+            <p class="marcador">Titular: Othon Henrique Rego Aranha </p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+        <div id="estrutura_sipt">
+            <h4 class="topico">Seção de Automação de Obrigações Partidárias e Eleitorais</h4>
+            <p class="marcador">Titular: Marcos Vinícius Amorim Ferreira Guimarães </p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>:  -</p>
+        </div>
+        <div id="estrutura_sipt">
+            <h4 class="topico">Seção de Suporte e Inovação ao Processo Judicial Eletrônico</h4>
+            <p class="marcador">Titular: Cássio Veiga Ramos </p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+
+<div id="estrutura_cotel">
+            <h4 class="topico">Coordenadoria de Sistemas Administrativos</h4>
+            <p class="marcador">Coordenador: Lucas Ferreira de Lima</p>
+            <p class="marcador">Telefone: -</p>
+            <p class="marcador"><em>E-mail</em>: -</p>
+        </div>
+
+    </div>
+
+</div>
+
+</div>
+</div>
